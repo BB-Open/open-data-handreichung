@@ -7,8 +7,8 @@ August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 * Francois Peverali
 
 
-**Herausgeber:** \\
-Frank Schiersner \\
+**Herausgeber:**  \
+Frank Schiersner  \
 Referat 11
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de)
 
@@ -56,13 +56,11 @@ Modifikation: Farben
 
  
 
-**Version:**
+**Version:** **1.0** vom 7.9.2018
 
-**1.0**
+---
 
-** **
-
-**Einführung in die Handreichung**
+## Einführung in die Handreichung
 
 Die vorliegende Handreichung richtet sich an die Kommunen im Land
 Brandenburg und soll als Unterstützung beim Umgang mit dem Thema Open
@@ -91,44 +89,41 @@ DatenAdler.de.
   * [Partizipation](#partizipation)
   * [Kollaboration](#kollaboration)
 * [Open Data](#open-data)
-* [Hintergründe und aktuelle Lage](#hintergrnde-und-aktuelle-lage)
+* [Hintergründe und aktuelle Lage](#hintergründe-und-aktuelle-lage)
 * [Chancen und Nutzen](#chancen-und-nutzen)
-  * [Bürgerinnen und Bürger](#aToc524075176)
-  * [Politik und Verwaltung](#aToc524075177)
-  * [Wirtschaft](#aToc524075178)
-* [Referenzprojekte](#aToc524075179)
-  * [Wheelmap](#aToc524075180)
-  * [Transparent München](#aToc524075181)
-  * [GeoLytix](#aToc524075182)
+  * [Bürgerinnen und Bürger](#bürgerinnen-und-bürger)
+  * [Politik und Verwaltung](#politik-und-verwaltung)
+  * [Wirtschaft](#wirtschaft)
+* [Referenzprojekte](#referenzprojekte)
+  * [Wheelmap](#wheelmap)
+  * [Transparent München](#transparent-münchen)
+  * [GeoLytix](#geolytix)
   
-**[Wie gehe ich an die Arbeit mit Open Data heran?](#aToc524075183)**
-* [Datenqualität](#aToc524075184)
-* [Identifizierung relevanter Datensätzen auf kommunaler Ebene](#aToc524075185)
-  * [Fragenkatalog](#aToc524075186)
-* [Datenschutz](#aToc524075187)
-  * [Risikoabschätzung](#aToc524075188)
-  * [Schutzmaßnahmen zur Veröffentlichung der gelben Datensätze](#aToc524075189)
-*[Lizenzen](#aToc524075190)
-*[Rahmenbedingungen zur Nutzung des DatenAdlers](#aToc524075191)
+**[Wie gehe ich an die Arbeit mit Open Data heran?](#wie-gehe-ich-an-die-arbeit-mit-open-data-heran)**
+* [Datenqualität](#Datenqualität)
+* [Identifizierung relevanter Datensätzen auf kommunaler Ebene](#identifizierung-relevanter-Datensätzen-auf-kommunaler-ebene)
+  * [Fragenkatalog](#fragenkatalog)
+* [Datenschutz](#datenschutz)
+  * [Risikoabschätzung](#risikoabschätzung)
+  * [Schutzmaßnahmen zur Veröffentlichung der gelben Datensätze](#schutzmaßnahmen-zur-veröffentlichung-der-gelben-datensätze)
+*[Lizenzen](#lizenzen)
+*[Rahmenbedingungen zur Nutzung des DatenAdlers](#rahmenbedingungen-zur-nutzung-des-datenadlers)
 
-**[Wie arbeite ich mit dem DatenAdler?](#aToc524075192)**
-* [Funktionsweise des DatenAdlers](#aToc524075193)*
-  * [Zusammenfassung: Der kürzeste Weg zur Veröffentlichung meines ersten Open-Data-Datensatzes](#aToc524075194)
+**[Wie arbeite ich mit dem DatenAdler?](#wie-arbeite-ich-mit-dem-datenadler)**
+* [Funktionsweise des DatenAdlers](#funktionsweise-des-datenadlers)
+  * [Zusammenfassung: Der kürzeste Weg zur Veröffentlichung meines ersten Open-Data-Datensatzes](#zusammenfassung-der-kürzeste-weg-zur-veröffentlichung-meines-ersten-open-data-datensatzes)
 
-*[Der Metadatenstandard DCAT-AP](#aToc524075195)
-  * [Gesamtkatalog](#aToc524075196)
-  * [Datenstruktur](#aToc524075197)
-  * [Distribution](#aToc524075198)
+*[Der Metadatenstandard DCAT-AP](#der-metadatenstandard-dcat-ap)
+  * [Gesamtkatalog](#gesamtkatalog)
+  * [Datenstruktur](#datenstruktur)
+  * [Distribution](#distribution)
 
-**[Anhang](#aToc524075199)**
-* [Schlagwortverzeichnis „DatenAdler“ A-Z](#aToc524075200)
+**[Anhang](#anhang)**
+* [Schlagwortverzeichnis „DatenAdler“ A-Z](#schlagwortverzeichnis-datenadler-a-z)
  
 
 Warum sollte ich mich mit dem Thema Open Data auseinandersetzen?
 ================================================================
-
- 
-
 Die ständige Schaffung, Ansammlung und Auswertung unzähliger
 elektronischer Daten prägt den digitalen Wandel im 21. Jahrhundert.
 Daten sind eine neuartige und unerschöpfliche Ressource. Es ist nicht
@@ -155,38 +150,25 @@ Kollaboration[^1^](#footnote1)^,[^2^](#footnote2),[^3^](#footnote3)^.
 
 ### Transparenz
 
-o Bereitstellung der Daten über Portale
-
-o Offenlegung von Strukturen, Prozessen und Datenbeständen
-
-o Schaffung von Interesse, Verständnis und Vertrauen
-
-o Nachvollziehbarkeit von Entscheidungsprozessen
-
-o Aufdeckung von Missständen und Steuerungsproblemen
+* Bereitstellung der Daten über Portale
+* Offenlegung von Strukturen, Prozessen und Datenbeständen
+* Schaffung von Interesse, Verständnis und Vertrauen
+* Nachvollziehbarkeit von Entscheidungsprozessen
+* Aufdeckung von Missständen und Steuerungsproblemen
 
 ### Partizipation
 
-o Basiert auf Transparenz
-
-o Förderung der Bürgerbeteiligung
-
-o Integration der Bürger in den öffentlichen Sektor
-
-o Minderung der Informationssymmetrie zwischen Verwaltung und
-Gesellschaft
-
-o Befähigung der Gesellschaft durch verschiedene
-Partizipationsmöglichkeiten
+* Basiert auf Transparenz
+* Förderung der Bürgerbeteiligung
+* Integration der Bürger in den öffentlichen Sektor
+* Minderung der Informationssymmetrie zwischen Verwaltung und Gesellschaft
+* Befähigung der Gesellschaft durch verschiedene Partizipationsmöglichkeiten
 
 ### Kollaboration
 
-o Zusammenarbeit von Staat oder Verwaltung mit Bürgerinnen und Bürgern,
-Wirtschaft sowie nicht staatlichen Organisationen
-
-o Interaktion auf Augenhöhe
-
-o Persönlicher Dialog und Zusammenarbeit
+* Zusammenarbeit von Staat oder Verwaltung mit Bürgerinnen und Bürgern, Wirtschaft sowie nicht staatlichen Organisationen
+* Interaktion auf Augenhöhe
+* Persönlicher Dialog und Zusammenarbeit
 
  
 
