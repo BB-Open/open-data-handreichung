@@ -547,7 +547,7 @@ Zur Identifikation von relevanten Datensätzen, die über den DatenAdler
 zur Verfügung gestellt werden sollen, kann der folgende Fragebogen als
 Gedankenstütze dienen:
 
-#### Datenbestand
+#### Datenbestand:
 **Welche Daten fallen bei unserer Arbeit an und liegen bereits in einem geeigneten (maschinenlesbaren) Format vor?**
   * welche Arten von Daten werden allgemein gesammelt?  
   * in welchem Format liegen die Daten vor?
@@ -557,14 +557,14 @@ Gedankenstütze dienen:
   * sind die Daten dezentral oder zentral verwaltet?
   * gibt es Anwendungen/Fachverfahren, zu den Daten und können diese dadurch auch automatisiert zur Verfügung gestellt werden? 
 
-#### Datengenerierung
+#### Datengenerierung:
 **In welchen Fachbereiche / welchen Bereichen sehen wir Potenzial, weitere Daten zur Bereitstellung auf dem DatenAdler zu generieren?**
   * welche Ebenen sammeln Daten?
   * was können wir tun, um Daten zu identifizieren (organisatorisch)?
   * Können wir uns Geschäftsmodelle vorstellen, die durch unsere Daten zu Stande kommen könnten?
   * welche Möglichkeit gibt es, die Daten in ein geeignetes Format zu bringen? 
   
-#### Datennutzung
+#### Datennutzung:
 **Wie werden unsere vorliegenden Daten aktuell genutzt?**
   * laufen bereits interne Auswertungen mit unseren Daten?
   * stellen wir Daten für externe Stellen bereit?
