@@ -1,14 +1,14 @@
 August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 
 **Autoren:**
-Clementine Bertheau
-Johannes Hiller
-Marco Kohlhagen
-Francois Peverali
+* Clementine Bertheau
+* Johannes Hiller
+* Marco Kohlhagen
+* Francois Peverali
 
 
-**Herausgeber:**
-Frank Schiersner
+**Herausgeber:** \\
+Frank Schiersner \\
 Referat 11
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de)
 
@@ -83,20 +83,20 @@ sind. Der dritte Abschnitt umfasst konkrete operative Werkzeuge zur
 Datenbereitstellung durch die Kommunen auf dem Landesportal
 DatenAdler.de.
 
-**Inhalt**
+## Inhalt
 
-**[Warum sollte ich mich mit dem Thema Open Data auseinandersetzen?](#aToc524075168)**
-* [Open Government](#aToc524075169)
-  * [Transparenz](#transparenz)  (#aToc524075170)
-  * [Partizipation](#aToc524075171)
-  * [Kollaboration](#aToc524075172)
-* [OpenData](#aToc524075173)
-* [Hintergründe und aktuelle Lage](#aToc524075174)
-* [Chancen und Nutzen](#aToc524075175)
+**[Warum sollte ich mich mit dem Thema Open Data auseinandersetzen?](#warum-sollte-ich-mich-mit-dem-thema-open-data-auseinandersetzen)**
+* [Open Government](#open-government)
+  * [Transparenz](#transparenz)
+  * [Partizipation](#partizipation)
+  * [Kollaboration](#kollaboration)
+* [Open Data](#open-data)
+* [Hintergründe und aktuelle Lage](#hintergrnde-und-aktuelle-lage)
+* [Chancen und Nutzen](#chancen-und-nutzen)
   * [Bürgerinnen und Bürger](#aToc524075176)
   * [Politik und Verwaltung](#aToc524075177)
   * [Wirtschaft](#aToc524075178)
-*[Referenzprojekte](#aToc524075179)
+* [Referenzprojekte](#aToc524075179)
   * [Wheelmap](#aToc524075180)
   * [Transparent München](#aToc524075181)
   * [GeoLytix](#aToc524075182)
