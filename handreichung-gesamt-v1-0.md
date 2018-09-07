@@ -521,13 +521,13 @@ so können die beschriebenen positiven Effekte von Open Data erreicht
 werden. Zu folgenden Tätigkeitsbereichen ist die Bereitstellung von
 Datensätzen generell möglich und sinnvoll[^13^](#footnote13):
 
-Bereich      | Daten
------------- | -------------
-o Einwohnermeldeamt                  | o Standorterschließung / Bau         
-o Abfallentsorgung                   | o Tourismus / Erholung
-o Nahverkehr                         | o Bildung / Kinderbetreuung
-o Energie und Wasser                 | o Gesundheit / Soziales
-o Breitbandausbau und -zugang        | o Umweltschutz
+Aufgabenbereich      | Daten
+-------------------- | -------------
+Einwohnermeldeamt               | Standorterschließung / Bau         
+Abfallentsorgung                | Tourismus / Erholung
+Nahverkehr                      | Bildung / Kinderbetreuung
+Energie und Wasse               | Gesundheit / Soziales
+Breitbandausbau und -zugang     | Umweltschutz
 
 
  
@@ -548,18 +548,15 @@ zur Verfügung gestellt werden sollen, kann der folgende Fragebogen als
 Gedankenstütze dienen:
 
  
+**\#**        | **Hauptfrage**           | **Stichworte (Unterfragen)**
+--------------|--------------------------|------------------------------
+| 1                        | **Datenbestand**: Welche Daten fallen bei unserer Arbeit an und liegen bereits in einem geeigneten (maschinenlesbaren) Format vor? | o welche Arten von Daten werden allgemein gesammelt?  
 
-+--------------------------+--------------------------+--------------------------+
-| **\#**                   | **Hauptfrage**           | **Stichworte             |
-|                          |                          | (Unterfragen)**          |
-+--------------------------+--------------------------+--------------------------+
-| 1                        | **Datenbestand**: Welche | o welche Arten von Daten |
-|                          | Daten fallen bei unserer | werden allgemein         |
-|                          | Arbeit an und liegen     | gesammelt?               |
-|                          | bereits in einem         |                          |
-|                          | geeigneten               | o in welchem Format      |
-|                          | (maschinenlesbaren)      | liegen die Daten vor?    |
-|                          | Format vor?              | Kann das Format          |
+|
+|                          |         |                          |
+|                          |                | o in welchem Format      |
+|                          |       | liegen die Daten vor?    |
+|                          |               | Kann das Format          |
 |                          |                          | verbessert werden?       |
 |                          |                          |                          |
 |                          |                          | o wer bearbeitet die     |
