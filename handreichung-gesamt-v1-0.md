@@ -1,7 +1,7 @@
 August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 
 # Open Data in den Kommunen des Landes Brandenburg
-** Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler **
+**Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler**
 
 **Autoren:**
 * Clementine Bertheau
@@ -26,7 +26,7 @@ Henning-von-Tresckow-Str. 9-13  \
 [Datenlizenz Deutschland Zero Version 2.0](https://www.govdata.de/dl-de/zero-2-0) (dl-zero-de/2.0)
 
  
-**Verwendete Grafiken:**  \
+**Verwendete Grafiken:** 
 * Deckblatt, Seite 10: eagle.svg
   * Quelle: https://www.creativetail.com/40-free-flat-animal-icons/
   * Lizenz: CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
@@ -521,19 +521,14 @@ so können die beschriebenen positiven Effekte von Open Data erreicht
 werden. Zu folgenden Tätigkeitsbereichen ist die Bereitstellung von
 Datensätzen generell möglich und sinnvoll[^13^](#footnote13):
 
+Bereich      | Daten
 ------------ | -------------
- o Einwohnermeldeamt                  | o Standorterschließung / Bau         
- 
- 
-|                                      |                                      |
-| o Abfallentsorgung                   | o Tourismus / Erholung               |
-|                                      |                                      |
-| o Nahverkehr                         | o Bildung / Kinderbetreuung          |
-|                                      |                                      |
-| o Energie und Wasser                 | o Gesundheit / Soziales              |
-|                                      |                                      |
-| o Breitbandausbau und -zugang        | o Umweltschutz                       |
-+--------------------------------------+--------------------------------------+
+o Einwohnermeldeamt                  | o Standorterschließung / Bau         
+o Abfallentsorgung                   | o Tourismus / Erholung
+o Nahverkehr                         | o Bildung / Kinderbetreuung
+o Energie und Wasser                 | o Gesundheit / Soziales
+o Breitbandausbau und -zugang        | o Umweltschutz
+
 
  
 
