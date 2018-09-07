@@ -1,5 +1,8 @@
 August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 
+# Open Data in den Kommunen des Landes Brandenburg
+** Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler **
+
 **Autoren:**
 * Clementine Bertheau
 * Johannes Hiller
@@ -9,52 +12,33 @@ August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 
 **Herausgeber:**  \
 Frank Schiersner  \
-Referat 11
+Referat 11  \
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de)
 
-Ministerium des Inneren und für Kommunales des Landes Brandenburg (MIK)
-Henning-von-Tresckow-Str. 9-13
+Ministerium des Inneren und für Kommunales des Landes Brandenburg (MIK)  \
+Henning-von-Tresckow-Str. 9-13  \
 14467 Potsdam
 
-**Kostenloser Download:**
-
+**Kostenloser Download:**  \
 [https://github.com/BB-Open/open-data-handreichung](https://github.com/BB-Open/open-data-handreichung)
 
-**Lizenz:**
-
-Dieser Beitrag unterliegt der Lizenz dl-zero-de/2.0.
-
- 
-
-**Verwendete Grafiken:\
-**Deckblatt, Seite 10: eagle.svg
-
-Quelle: https://www.creativetail.com/40-free-flat-animal-icons/
-
-Lizenz: CC BY 4.0:
-[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-
-Modifikation: Hintergrundfarbe Rot
+**Lizenz:**  \
+[Datenlizenz Deutschland Zero Version 2.0](https://www.govdata.de/dl-de/zero-2-0) (dl-zero-de/2.0)
 
  
+**Verwendete Grafiken:**  \
+* Deckblatt, Seite 10: eagle.svg
+  * Quelle: https://www.creativetail.com/40-free-flat-animal-icons/
+  * Lizenz: CC BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+  * Modifikation: Hintergrundfarbe Rot
+  * zuletzt zugegriffen: 01.09.2018
 
-zuletzt zugegriffen: 01.09.2018
-
-Seiten 9, 10, 12, 20: discussion.png
-
-Quelle:
-[https://commons.wikimedia.org/wiki/File:Discussion.png](https://commons.wikimedia.org/wiki/File:Discussion.png)
-
-Von: MRafizeldi
-
-Lizenz: CC BY-SA 3.0,
-[https://creativecommons.org/licenses/by-sa/3.0/deed.en](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
-
-Modifikation: Farben
-
-****zuletzt zugegriffen: 01.09.2018
-
- 
+* Seiten 9, 10, 12, 20: discussion.png
+  * Quelle: [https://commons.wikimedia.org/wiki/File:Discussion.png](https://commons.wikimedia.org/wiki/File:Discussion.png)
+  * Von: MRafizeldi
+  * Lizenz: CC BY-SA 3.0, [https://creativecommons.org/licenses/by-sa/3.0/deed.en](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+  * Modifikation: Farben
+  * zuletzt zugegriffen: 01.09.2018
 
 **Version:** **1.0** vom 7.9.2018
 
@@ -262,15 +246,13 @@ Umsetzung der Charta ist in Deutschland 2014 in Form eines Nationalen
 Aktionsplans der Bundesregierung festgelegt worden, der vier
 Verpflichtungen enthält[^5^](#footnote5):
 
-​1. Ein klares Richtungssignal für offene Daten in Deutschland
+1. Ein klares Richtungssignal für offene Daten in Deutschland
 
-​2. Die Veröffentlichung von Datensätzen
+2. Die Veröffentlichung von Datensätzen
 
-​3. Die Veröffentlichung der Daten auf einem nationalen Portal
+3. Die Veröffentlichung der Daten auf einem nationalen Portal
 
-​4. Maßnahmen zu Konsultation, Engagement und Erfahrungsaustausch
-
- 
+4. Maßnahmen zu Konsultation, Engagement und Erfahrungsaustausch
 
 Bisher sind nur die Behörden der unmittelbaren Bundesverwaltung gemäß
 §12a des E-Government-Gesetzes angehalten, ihre elektronischen Daten
@@ -397,22 +379,22 @@ Sortimente an welchen Standorten gewinnbringen sind.
 Wie gehe ich an die Arbeit mit Open Data heran?
 ===============================================
 
-+--------------------------------------------------------------------------+
-| **Was ist der einfachste Weg die Datenqualität zu verbessern?**          |
-|                                                                          |
-| Möchte man die Bewertung des Datensatzes verbessern, so ist der Sprung   |
-| von 3 auf 4 Adler der einfachste. Die Software Microsoft Excel bietet    |
-| zum Beispiel eine einfache Möglichkeit, Tabellen in dem nicht            |
-| proprietären Format „CSV“ abzuspeichern. Die Funktion verbirgt sich im   |
-| Menü Datei -\> Speichern unter. Hier kann bei der Auswahlschaltfläche    |
-| „Dateiformat“ das Format „CSV“ ausgewählt und die Datei anschließend     |
-| abgespeichert werden.                                                    |
-|                                                                          |
-| Auf demselben Weg können auch Dokumente in Microsoft Word als „OCT“      |
-| abgespeichert werden.                                                    |
-|                                                                          |
-| **Vorsicht:** Das Dateiformat „CSV“ unterstützt keine Formatierungen.    |
-+--------------------------------------------------------------------------+
+```
+Was ist der einfachste Weg die Datenqualität zu verbessern?
+
+ Möchte man die Bewertung des Datensatzes verbessern, so ist der Sprung
+ von 3 auf 4 Adler der einfachste. Die Software Microsoft Excel bietet 
+ zum Beispiel eine einfache Möglichkeit, Tabellen in dem nicht         
+ proprietären Format „CSV“ abzuspeichern. Die Funktion verbirgt sich im 
+ Menü Datei -\> Speichern unter. Hier kann bei der Auswahlschaltfläche  
+ „Dateiformat“ das Format „CSV“ ausgewählt und die Datei anschließend   
+ abgespeichert werden.                                                  
+                                                                        
+ Auf demselben Weg können auch Dokumente in Microsoft Word als „OCT“    
+ abgespeichert werden.                                                  
+                                                                        
+ **Vorsicht:** Das Dateiformat „CSV“ unterstützt keine Formatierungen.  
+```
 
 ![](img/img00005.PNG)
 
@@ -539,8 +521,10 @@ so können die beschriebenen positiven Effekte von Open Data erreicht
 werden. Zu folgenden Tätigkeitsbereichen ist die Bereitstellung von
 Datensätzen generell möglich und sinnvoll[^13^](#footnote13):
 
-+--------------------------------------+--------------------------------------+
-| o Einwohnermeldeamt                  | o Standorterschließung / Bau         |
+------------ | -------------
+ o Einwohnermeldeamt                  | o Standorterschließung / Bau         
+ 
+ 
 |                                      |                                      |
 | o Abfallentsorgung                   | o Tourismus / Erholung               |
 |                                      |                                      |
