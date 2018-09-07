@@ -547,71 +547,24 @@ Zur Identifikation von relevanten Datensätzen, die über den DatenAdler
 zur Verfügung gestellt werden sollen, kann der folgende Fragebogen als
 Gedankenstütze dienen:
 
- 
-**\#**        | **Hauptfrage**           | **Stichworte (Unterfragen)**
---------------|--------------------------|------------------------------
-| 1                        | **Datenbestand**: Welche Daten fallen bei unserer Arbeit an und liegen bereits in einem geeigneten (maschinenlesbaren) Format vor? | o welche Arten von Daten werden allgemein gesammelt?  
-
-|
-|                          |         |                          |
-|                          |                | o in welchem Format      |
-|                          |       | liegen die Daten vor?    |
-|                          |               | Kann das Format          |
-|                          |                          | verbessert werden?       |
-|                          |                          |                          |
-|                          |                          | o wer bearbeitet die     |
-|                          |                          | Daten / bereitet die     |
-|                          |                          | Daten auf?               |
-|                          |                          |                          |
-|                          |                          | o wo werden sie          |
-|                          |                          | abgelegt?                |
-|                          |                          |                          |
-|                          |                          | o sind die Daten         |
-|                          |                          | dezentral oder zentral   |
-|                          |                          | verwaltet?               |
-|                          |                          |                          |
-|                          |                          | o gibt es                |
-|                          |                          | Anwendungen/Fachverfahre |
-|                          |                          | n,                       |
-|                          |                          | zu den Daten und können  |
-|                          |                          | diese dadurch auch       |
-|                          |                          | automatisiert zur        |
-|                          |                          | Verfügung gestellt       |
-|                          |                          | werden könnten?          |
-+--------------------------+--------------------------+--------------------------+
-| 2                        | **Datengenerierung**: In | o welche Fachbereiche /  |
-|                          | welchen Bereichen sehen  | welche Ebenen sammeln    |
-|                          | wir Potenzial, weitere   | Daten?                   |
-|                          | Daten zur Bereitstellung |                          |
-|                          | auf dem DatenAdler zu    | o was können wir tun, um |
-|                          | generieren?              | Daten zu identifizieren  |
-|                          |                          | (organisatorisch)?       |
-|                          |                          | Können wir uns           |
-|                          |                          | Geschäftsmodelle         |
-|                          |                          | vorstellen, die durch    |
-|                          |                          | unsere Daten zu Stande   |
-|                          |                          | kommen könnten?          |
-|                          |                          |                          |
-|                          |                          | o welche Möglichkeit     |
-|                          |                          | gibt es, die Daten in    |
-|                          |                          | ein geeignetes Format zu |
-|                          |                          | bringen?                 |
-+--------------------------+--------------------------+--------------------------+
-| 3                        | **Datennutzung:**Wie     | o laufen bereits interne |
-|                          | werden unsere            | Auswertungen mit unseren |
-|                          | vorliegenden Daten       | Daten?                   |
-|                          | aktuell genutzt?         |                          |
-|                          |                          | o stellen wir Daten für  |
-|                          |                          | externe Stellen bereit?  |
-|                          |                          |                          |
-|                          |                          | o werden unsere Daten    |
-|                          |                          | bereits von externen     |
-|                          |                          | Organisationen           |
-|                          |                          | angefragt? Welche Daten? |
-|                          |                          | Durch wen?               |
-+--------------------------+--------------------------+--------------------------+
-
- 
+* **Datenbestand**: Welche Daten fallen bei unserer Arbeit an und liegen bereits in einem geeigneten (maschinenlesbaren) Format vor? 
+  * welche Arten von Daten werden allgemein gesammelt?  
+  * in welchem Format liegen die Daten vor?
+  * Kann das Format verbessert werden?
+  * wer bearbeitet die Daten / bereitet die Daten auf?
+  * wo werden sie abgelegt? 
+  * sind die Daten dezentral oder zentral verwaltet?
+  * gibt es Anwendungen/Fachverfahren, zu den Daten und können diese dadurch auch automatisiert zur Verfügung gestellt werden? 
+* **Datengenerierung**: In welchen Fachbereiche / welchen Bereichen sehen wir Potenzial, weitere Daten zur Bereitstellung auf dem DatenAdler zu generieren?
+  * welche Ebenen sammeln Daten?
+  * was können wir tun, um Daten zu identifizieren (organisatorisch)?
+  * Können wir uns Geschäftsmodelle vorstellen, die durch unsere Daten zu Stande kommen könnten?
+  * welche Möglichkeit gibt es, die Daten in ein geeignetes Format zu bringen? 
+* **Datennutzung**: Wie werden unsere vorliegenden Daten aktuell genutzt?
+  * laufen bereits interne Auswertungen mit unseren Daten?
+  * stellen wir Daten für externe Stellen bereit?
+  * werden unsere Daten bereits von externen Organisationen angefragt? Welche Daten? Durch wen?
+   
 
 Im Rahmen von Interviews mit einzelnen Kommunen konnte identifiziert
 werden, dass in den unterschiedlichen Fachbereichen der Kommunen mit
