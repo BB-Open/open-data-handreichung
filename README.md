@@ -4,7 +4,7 @@
 Open Data lebt von der Beteiligung der Datenbereitsteller insbesondere aus dem kommunalen Bereich. Um hier den Einstieg so einfach wie möglich zu gestalten, haben Studierende der Universität Potsdam eine [Handreichung für die Praxis](docs) erarbeitet. Sie wurde am 07.09.2018 abgenommen und veröffentlicht.
 
 * Projektlaufzeit: Mai bis September 2018
-* Lizenz: CC0
+* Lizenz: Dieser Beitrag unterliegt der [Datenlizenz Deutschland Zero Version 2.0](https://www.govdata.de/dl-de/zero-2-0) (dl-zero-de/2.0).
 
 ## Verlauf
 * **2018-05-22**: Auftaktgespräch der Studierenden mit dem für das Daten-Portal [DatenAdler.de](https://datenadler.de/) zuständigen Referenten im [Innenministeriums](https://mik.brandenburg.de/) (MIK) des Landes Brandenburg.
