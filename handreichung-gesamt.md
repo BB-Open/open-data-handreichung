@@ -3,7 +3,7 @@ August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 # Open Data in den Kommunen des Landes Brandenburg
 **Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler**
 
-![](img/Creative-Tail-Animal-eagle-300x300.png)
+![CreativeTail's Animal_ Eagle](img/Creative-Tail-Animal-eagle-300x300.png)
 
 **Autoren:**
 * Clementine Bertheau
@@ -280,47 +280,30 @@ Verwaltung, sowie die Wirtschaft.[^7^](#footnote7)^,[^8^](#footnote8)^
 
 ### Bürgerinnen und Bürger
 
-o Erhöhung politischer Transparenz
-
-o Umfassende Informationen über das staatliche Handeln
-
-o Verbesserte Ausübung demokratischer Rechte und Pflichten
-
-o Bürgerpartizipation
-
-o Vorteile im Alltag
+* Erhöhung politischer Transparenz
+* Umfassende Informationen über das staatliche Handeln
+* Verbesserte Ausübung demokratischer Rechte und Pflichten
+* Bürgerpartizipation
+* Vorteile im Alltag
 
 ### Politik und Verwaltung
 
-o Verbesserte Effizienz und Wirksamkeit von Behördendienstleistungen
-
-o Aufwands- und Kostenreduzierung beim Informationsaustausch
-
-o Steigerung der Datenqualität
-
-o Befähigung der Bürger
-
-o Vertrauens- und Akzeptanzsteigerung
-
-o Imageverbesserung
-
- 
+* Verbesserte Effizienz und Wirksamkeit von Behördendienstleistungen
+* Aufwands- und Kostenreduzierung beim Informationsaustausch
+* Steigerung der Datenqualität
+* Befähigung der Bürger
+* Vertrauens- und Akzeptanzsteigerung
+* Imageverbesserung
 
 ### Wirtschaft
 
-**o**Geschätzter Wert von ca. 140 Mrd. Euro pro Jahr
-
-**o**Kostengünstige Wirtschaftsförderung
-
-o Möglichkeit der Kombination von Datenquellen
-
-o Erkennen von Mustern aus großen Datensammlungen
-
-o Innovationspotenzial für Gründer
-
-o Verbesserte Produkte oder Dienstleistungen in der Privatwirtschaft
-
-o Weiterverarbeitung und Veredelung der offenen Daten
+* Geschätzter Wert von ca. 140 Mrd. Euro pro Jahr
+* Kostengünstige Wirtschaftsförderung
+* Möglichkeit der Kombination von Datenquellen
+* Erkennen von Mustern aus großen Datensammlungen
+* Innovationspotenzial für Gründer
+* Verbesserte Produkte oder Dienstleistungen in der Privatwirtschaft
+* Weiterverarbeitung und Veredelung der offenen Daten
 
 Referenzprojekte
 ----------------
