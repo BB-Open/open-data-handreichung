@@ -3,6 +3,8 @@ August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 # Open Data in den Kommunen des Landes Brandenburg
 **Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler**
 
+![](img/Creative-Tail-Animal-eagle-300x300.png)
+
 **Autoren:**
 * Clementine Bertheau
 * Johannes Hiller
@@ -368,8 +370,8 @@ verschiedene Möglichkeiten der Bürgerpartizipation bereit.
 
 GeoLytix ist ein Beratungsunternehmen aus Großbritannien, das seine
 Kunden bei der Standortplanung und räumlichen Modellierung unterstützt.
-Die Kunden stammen zumeist aus dem Einzelhandelssektor. GeoLytix
-kombiniert offene Verwaltungsdaten mit vom Kunden bereitgestellten Daten
+Die Kunden stammen zumeist aus dem Einz,elhandelssektor. GeoLytix
+kombiniert offene Verwaltungsdaten mit, vom Kunden bereitgestellten Daten
 (zum Beispiel von Kundenkarten gesammelten Daten) und erstellt auf
 dieser Basis Umsatzstrategien. Zudem entwickeln sie die für den Kunden
 optimale Verkaufsstrategie. Die Kunden erlangen auf diese Weise
