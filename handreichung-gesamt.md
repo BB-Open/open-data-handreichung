@@ -199,7 +199,7 @@ Regierung und Verwaltung sollten die Datensätze zeitnah nach Erhebung
 und Zusammenstellung veröffentlichen. Dies ist insbesondere wichtig bei
 Daten, deren Nützlichkeit zeitabhängig ist.
 
-​4. **Leichter Zugang**
+**4. Leichter Zugang**
 
 Die zur Verfügung gestellten Daten sollten einfach eingeholt werden
 können. Hürden zum automatisierten elektronischen Zugang sollten so
@@ -441,48 +441,25 @@ bereits erfüllt sind.
 *Abbildung 1: Klassifizierung Güte von Daten (in Anlehnung an „Star
 scheme“ nach Tim Berners-Lee[^10^](#footnote10))*
 
-+--------------------------------------------------------------------------+
-| **Was heißt eigentlich…?**                                               |
-|                                                                          |
-| **Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt   |
-| worden, auch für Maschinen lesbar zu sein, anstatt nur für               |
-| Menschen[^11^](#footnote11). Dies lässt sich auch daran erkennen, dass   |
-| man einen Text markieren und kopieren kann.                              |
-|                                                                          |
-| **Datenformat** – beschreibt die Weise, in der die Informationen         |
-| abgelegt sind. Oftmals erkennt man das Format einer Datei bereits an     |
-| ihrem Namen. Die Datei „Tabelle.xls“ ist höchstwahrscheinlich im Format  |
-| „xls“ (=Excel) gespeichert.                                              |
-|                                                                          |
-| **Strukturiertes Datenformat** – Daten sind strukturiert, wenn sie nicht |
-| nur wahllos, sondern zum Beispiel in einer Tabelle mit Spaltennamen      |
-| abgespeichert wurden.                                                    |
-|                                                                          |
-| **Proprietäres Format** – ein Datenformat das von Dritten, ohne          |
-| Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar     |
-| ist[^12^](#footnote12)                                                   |
-|                                                                          |
-| **Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere |
-| Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen    |
-| nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz   |
-| mit den Zuordnungen verwiesen.                                           |
-|                                                                          |
-| * * * * *                                                                |
-|                                                                          |
-| [^11^](#footnote11back)                                                  |
-|  [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedi |
-| a.org/wiki/Maschinenlesbarkeit),                                         |
-| zuletzt zugegriffen: 01.09.2018                                          |
-|                                                                          |
-| [^12^](#footnote12back)                                                  |
-|  [https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.or |
-| g/wiki/Proprietär),                                                      |
-| zuletzt zugegriffen: 01.09.2018                                          |
-+--------------------------------------------------------------------------+
+**Was heißt eigentlich…?**
+
+**Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt worden, auch für Maschinen lesbar zu sein, anstatt nur für Menschen[^11^](#footnote11). Dies lässt sich auch daran erkennen, dass man einen Text markieren und kopieren kann.                              
+
+**Datenformat** – beschreibt die Weise, in der die Informationen abgelegt sind. Oftmals erkennt man das Format einer Datei bereits an ihrem Namen. Die Datei „Tabelle.xls“ ist höchstwahrscheinlich im Format „xls“ (=Excel) gespeichert.                                              
+
+**Strukturiertes Datenformat** – Daten sind strukturiert, wenn sie nicht nur wahllos, sondern zum Beispiel in einer Tabelle mit Spaltennamen abgespeichert wurden.
+
+**Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[^12^](#footnote12)
+
+**Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz mit den Zuordnungen verwiesen.                                           
+
+[^11^](#footnote11back) [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit),                                        uletzt zugegriffen: 01.09.2018
+
+[^12^](#footnote12back) https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär),                                                   zuletzt zugegriffen: 01.09.2018
 
 ![](img/img00005.PNG)
 
-* *
+
 
 Identifizierung relevanter Datensätzen auf kommunaler Ebene
 -----------------------------------------------------------
@@ -580,26 +557,12 @@ Abfallversorger könnten sowohl für Unternehmen als auch für
 Privatpersonen von Interesse sein. Geodaten-Portale sind schon sehr
 verbreitet, insbesondere Liegenschaftsdaten sind gefragt.
 
- 
-
-o So könnten Wohnungsverwaltungsgesellschaften sich vielleicht für die
-Altersstruktur der Einwohner der Kommune interessieren, also die
-Meldeamtsdaten der Kommune, damit sie gezielt altersgerechten Wohnraum
-schaffen können.
-
-o Das Restaurant am Marktplatz interessiert sich vielleicht für die
-Anzahl der Fahrradfahrer, die jährlich mit der Fähre kommen, damit Sie
+* So könnten Wohnungsverwaltungsgesellschaften sich vielleicht für die Altersstruktur der Einwohner der Kommune interessieren, also die
+Meldeamtsdaten der Kommune, damit sie gezielt altersgerechten Wohnraum schaffen können.
+* Das Restaurant am Marktplatz interessiert sich vielleicht für die Anzahl der Fahrradfahrer, die jährlich mit der Fähre kommen, damit Sie
 spezielle Sleep & Ride Angebote schaffen können.
-
-o Der Witwer interessiert sich vielleicht für die Haushaltsdaten, weil
-er wissen möchte, ob Investitionen für den Friedhof, auf dem seine Frau
-bestattet liegt, geplant sind. Dort gibt es bisher keine
-Sitzmöglichkeiten.
-
-o Ein Startup möchte vielleicht eine App entwickeln, über die Kitaplätze
-im Landkreis vergeben werden.
-
- 
+* Der Witwer interessiert sich vielleicht für die Haushaltsdaten, weil er wissen möchte, ob Investitionen für den Friedhof, auf dem seine Frau bestattet liegt, geplant sind. Dort gibt es bisher keine Sitzmöglichkeiten.
+* Ein Startup möchte vielleicht eine App entwickeln, über die Kitaplätze im Landkreis vergeben werden.
 
 Der eine oder andere Mitarbeiter in einer Kommune kennt sich vermutlich
 bereits jetzt sehr gut mit den Datenstrukturen aus, die in einem
@@ -607,34 +570,25 @@ spezifischen Fachverfahren vordergründig Anwendung finden. Diese
 Mitarbeiter gilt es zu identifizieren und bestenfalls von Beginn an im
 Prozess einzubeziehen.
 
- 
+**Idee: Brainstorming im Team**
 
- 
+Es ist vielleicht nicht immer sofort einleuchtend, wofür die eigenen   
+Daten interessant sein könnten, aber wenn darüber etwas nachgedacht  
+wird, entstehen diverse Ideen. Um zu ermitteln, über welche Daten die 
+eigene Kommune verfügt und die eine Relevanz für Bürger, Verwaltung und
+Unternehmen haben, könnte ein gemeinsames Brainstorming durchgeführt   
+werden. Den Nutzen der eigenen Daten zu erkennen, kann dabei helfen, die 
+Akzeptanz für das Thema Open Data in der eigenen Verwaltung und die 
+Motivation sich beim DatenAdler zu beteiligen, zu steigern. Dabei können
+Transparenzgründe oder Innovationsgedanken sowie die einhergehende      
+Wirtschaftsförderung eine Rolle spielen.                                
+                                                                         
+Mögliche Leitfragen, die beim Brainstorming inspirieren können, sind:   
+                                                                         
+* Welche Daten interessieren unsere Bürger am meisten?
+* Welches Geschäftsmodell könnte ein Startup mit unseren Daten realisieren?
+* Welche Daten brauchen unsere lokal angesiedelten Unternehmen, um effizienter arbeiten zu können?                                         
 
-+--------------------------------------------------------------------------+
-| **Idee: Brainstorming im Team**                                          |
-|                                                                          |
-| Es ist vielleicht nicht immer sofort einleuchtend, wofür die eigenen     |
-| Daten interessant sein könnten, aber wenn darüber etwas nachgedacht      |
-| wird, entstehen diverse Ideen. Um zu ermitteln, über welche Daten die    |
-| eigene Kommune verfügt und die eine Relevanz für Bürger, Verwaltung und  |
-| Unternehmen haben, könnte ein gemeinsames Brainstorming durchgeführt     |
-| werden. Den Nutzen der eigenen Daten zu erkennen, kann dabei helfen, die |
-| Akzeptanz für das Thema Open Data in der eigenen Verwaltung und die      |
-| Motivation sich beim DatenAdler zu beteiligen, zu steigern. Dabei können |
-| Transparenzgründe oder Innovationsgedanken sowie die einhergehende       |
-| Wirtschaftsförderung eine Rolle spielen.                                 |
-|                                                                          |
-| Mögliche Leitfragen, die beim Brainstorming inspirieren können, sind:    |
-|                                                                          |
-| § Welche Daten interessieren unsere Bürger am meisten?                   |
-|                                                                          |
-| § Welches Geschäftsmodell könnte ein Startup mit unseren Daten           |
-| realisieren?                                                             |
-|                                                                          |
-| § Welche Daten brauchen unsere lokal angesiedelten Unternehmen, um       |
-| effizienter arbeiten zu können?                                          |
-+--------------------------------------------------------------------------+
 
 ![](img/img00005.PNG)
 
@@ -665,15 +619,15 @@ von Bürgern ermöglichen.
 Auf Seiten der Bürger werden insbesondere drei Datenschutzbedenken in
 Bezug auf Open Data[^16^](#footnote16) geäußert:
 
-​1. Bürger befürchten, dass ihre Daten nicht vertrauenswürdig behandelt
+1. Bürger befürchten, dass ihre Daten nicht vertrauenswürdig behandelt
 und veröffentlicht werden und interagieren daher weniger mit
 öffentlichen Behörden („Chilling Effect“)
 
-​2. Bürger befürchten einen Kontrollverlust über ihre persönlichen
+2. Bürger befürchten einen Kontrollverlust über ihre persönlichen
 Daten, wenn ihre Daten als Open Data veröffentlicht werden („Lack of
 Control over Personal Information“)
 
-​3. Bürger befürchten, dass offene Daten genutzt werden können, um
+3. Bürger befürchten, dass offene Daten genutzt werden können, um
 soziale Einteilungen und Diskriminierungsmaßnahmen durchzuführen
 („Social Sorting and Discrimination“)
 
@@ -685,28 +639,17 @@ und auch sicherheitsrelevante Daten von Regierungen und Behörden dürfen
 selbstverständlich nicht veröffentlicht werden. Geltende Gesetzte, die
 in diesem Zusammenhang Relevanz haben, sind[^17^](#footnote17):
 
-o EU-Datenschutz Grundverordnung (EU-DSGVO)
+* EU-Datenschutz Grundverordnung (EU-DSGVO)
+* Brandenburgisches Datenschutzgesetz (BbgDSG)
+* Akteneinsichts- und Informationszugangsgesetzes (AIG) des Landes Brandenburg
+* Urheberrechtsgesetz, Markengesetz, Patentrecht
 
-o Brandenburgisches Datenschutzgesetz (BbgDSG)
+Darüber hinaus ist gilt zu prüfen, ob aus folgenden Regelungen Einschränkungen im Einzelfall gelten:
 
-o Akteneinsichts- und Informationszugangsgesetzes (AIG) des Landes
-Brandenburg
-
-o Urheberrechtsgesetz, Markengesetz, Patentrecht
-
-Darüber hinaus ist gilt zu prüfen, ob aus folgenden Regelungen
-Einschränkungen im Einzelfall gelten:
-
-o Betriebs- und Geschäftsgeheimnisse
-
-o Spezialgesetze: Umweltinformationsgesetz, Geodatenzugangsgesetz,
-Verbraucherinformationsgesetz
-
-o Geheimschutz: Verschlusssachen im Sinne des
-Sicherheitsüberprüfungsgesetzes
-
-o Andere Geheimnisschutz-relevante Bereiche: zum Beispiel
-Statistikgeheimnis, Steuergeheimnis
+* Betriebs- und Geschäftsgeheimnisse
+* Spezialgesetze: Umweltinformationsgesetz, Geodatenzugangsgesetz, Verbraucherinformationsgesetz
+* Geheimschutz: Verschlusssachen im Sinne des Sicherheitsüberprüfungsgesetzes
+* Andere Geheimnisschutz-relevante Bereiche: zum Beispiel Statistikgeheimnis, Steuergeheimnis
 
 Die kommunalen Datenschutzbeauftragten sollten bei der Veröffentlichung
 von Datensätzen einbezogen werden.
@@ -770,13 +713,9 @@ https://www.stiftung-nv.de/de/publikation/leitfaden-für-datenschutz-bei-open-da
 Ein Personenbezug in Daten kann durch Anonymisierung entfernt werden.
 Eine Anonymisierung ist möglich durch:
 
-o Aggregation / Zusammenfassung von Daten (z.B. zu einer Statistik)
-
-o Entfernung von betroffenen Feldern in Datensätzen
-
-o Schwärzung von Details
-
- 
+* Aggregation / Zusammenfassung von Daten (z.B. zu einer Statistik)
+* Entfernung von betroffenen Feldern in Datensätzen
+* Schwärzung von Details
 
 Eine vollständige, nicht wiederherstellbare Anonymisierung bei
 gleichzeitiger Aufrechterhaltung der Nützlichkeit des Datensatzes ist
@@ -804,13 +743,10 @@ für (offene) Verwaltungsdaten im deutschen Recht[^21^](#footnote21). Es
 wird empfohlen, die „Datenlizenz Deutschland“ in einer der zwei
 verfügbaren Versionen zu nutzen:
 
-o Datenlizenz Deutschland – Zero – Version 2.0 (dl-zero-de/2.0)
-ermöglicht eine einschränkungslose Weiterverwendung des
-Dokuments/Datensatzes
-
-o Datenlizenz Deutschland – Namensnennung – Version 2.0 (dl-by-de/2.0)
-verpflichtet den Datennutzer, den jeweiligen Datenbereitsteller zu
-nennen
+* **Datenlizenz Deutschland – Zero – Version 2.0 (dl-zero-de/2.0)**
+ermöglicht eine einschränkungslose Weiterverwendung des Dokuments/Datensatzes
+* **Datenlizenz Deutschland – Namensnennung – Version 2.0 (dl-by-de/2.0)**
+verpflichtet den Datennutzer, den jeweiligen Datenbereitsteller zu nennen
 
 **Tipp:** Fällt die Entscheidung für die Lizenz „dl-by-de/2.0“, wird die
 Nutzung des DatenAlder-Formularfeldes „Namensnennungstext für
@@ -852,8 +788,7 @@ gestellt werden, hat der DatenAdler das Ziel, kommunale Daten zu
 verzeichnen und diese somit automatisch auch auf dem GovData-Portal zu
 veröffentlichen.
 
-Die Nutzung des DatenAdlers ist für Kommunen des Landes Brandenburg
-kostenlos.
+**Die Nutzung des DatenAdlers ist für Kommunen des Landes Brandenburg kostenlos.**
 
 Kommunen können Daten, die zum Beispiel bereits auf ihrer Homepage
 stehen, im DatenAdler per „Linking“ zugänglich machen oder Rohdaten
@@ -924,49 +859,20 @@ Berechtigungsrolle nach dem Schema in Ta fest.
 
 *Tabelle 1: Rollenkonzept*
 
-+--------------------------------------+--------------------------------------+
-| **Rahmenbedingungen**                | **Rolle**                            |
-+--------------------------------------+--------------------------------------+
-| o Dem Nutzer obliegt die             | ProviderDataEditor                   |
-| eingeschränkte Anpassung und         |                                      |
-| Gestaltung der Seite der Kommune.    |                                      |
-|                                      |                                      |
-| o Der Datenbereitsteller kann        |                                      |
-| Rohdaten innerhalb einer             |                                      |
-| Distribution hochladen oder auf      |                                      |
-| Daten außerhalb des Portals (zum     |                                      |
-| Beispiel auf eigener Webseite)       |                                      |
-| verweisen.                           |                                      |
-|                                      |                                      |
-| o Ein Katalog ist bereits            |                                      |
-| vorgegeben.                          |                                      |
-|                                      |                                      |
-| o Es können lediglich Datensätze und |                                      |
-| Distributionen innerhalb des         |                                      |
-| vorgegebenen Katalogs angelegt       |                                      |
-| werden.                              |                                      |
-+--------------------------------------+--------------------------------------+
-| o Der Nutzer verfügt über alle       | ProviderChiefEditor                  |
-| Berechtigungen der Rolle             |                                      |
-| „ProviderDataEditor“                 |                                      |
-|                                      |                                      |
-| o Der Nutzer hat erweiterte          |                                      |
-| Gestaltungsmöglichkeiten für die     |                                      |
-| Seite der Kommune. So kann diese zum |                                      |
-| Beispiel mit verantwortlichen        |                                      |
-| Stellen, Unterseiten, Dateien und    |                                      |
-| Bilder angereichert werden.          |                                      |
-+--------------------------------------+--------------------------------------+
-| o Der Nutzer verfügt über alle       | ProviderAdmin                        |
-| Berechtigungen der Rolle             |                                      |
-| „ProviderChiefEditor“                |                                      |
-|                                      |                                      |
-| o Der Datenbereitsteller hat die     |                                      |
-| volle Kontrolle über seinen Bereich: |                                      |
-| Kataloge, Daten und die Seite der    |                                      |
-| Kommune können nach Belieben         |                                      |
-| verwaltet werden.                    |                                      |
-+--------------------------------------+--------------------------------------+
+
+**Rollen und Rahmenbedingungen**
+
+* **ProviderDataEditor**  \
+  * Dem Nutzer obliegt die eingeschränkte Anpassung und Gestaltung der Seite der Kommune.
+  * Der Datenbereitsteller kann Rohdaten innerhalb einer Distribution hochladen oder auf Daten außerhalb des Portals (zum Beispiel auf eigener Webseite) verweisen.
+  * Ein Katalog ist bereits vorgegeben.
+  * Es können lediglich Datensätze und Distributionen innerhalb des vorgegebenen Katalogs angelegt werden.
+* **ProviderChiefEditor**
+  * Der Nutzer verfügt über alle Berechtigungen der Rolle „ProviderDataEditor“.
+  * Der Nutzer hat erweiterte Gestaltungsmöglichkeiten für die Seite der Kommune. So kann diese zum Beispiel mit verantwortlichen Stellen, Unterseiten, Dateien und Bilder angereichert werden. 
+* **ProviderAdmin**
+  * Der Nutzer verfügt über alle Berechtigungen der Rolle „ProviderChiefEditor“.
+  * Der Datenbereitsteller hat die volle Kontrolle über seinen Bereich: Kataloge, Daten und die Seite der Kommune können nach Belieben verwaltet werden. 
 
 Nach der erfolgreichen Anmeldung (Ab, Nummer 2) erscheinen in der
 Navigationszeile zusätzlich die Schaltflächen [Dashboard] und [Hilfe]
@@ -1050,6 +956,13 @@ aktuell aufgerufenen Seite
 
 ### Zusammenfassung: Der kürzeste Weg zur Veröffentlichung meines ersten Open-Data-Datensatzes
 
+**Schritt**              | **Aktion**               | **Schaltfläche**
+--------------------------|--------------------------|--------------------------
+ 1                        | Anmelden mit Benutzername und Passwort   | ![](img/img00014.PNG)
+ 2                        | Aufrufen meines persönlichen [Dashboards] | ![](img/img00015.PNG)
+ 
+
+
 +--------------------------+--------------------------+--------------------------+
 | **Schritt**              | **Aktion**               | **Schaltfläche**         |
 +--------------------------+--------------------------+--------------------------+
@@ -1059,15 +972,15 @@ aktuell aufgerufenen Seite
 +--------------------------+--------------------------+--------------------------+
 | 2                        | Aufrufen meines          | ![](DatenAdler_Handreich |
 |                          | persönlichen             | ung_V1.0-Dateien/img0001 |
-|                          | [Dashboards]             | 5.PNG)                   |
+,,,,|                          | [Dashboards]             | 5.PNG)                   |
 +--------------------------+--------------------------+--------------------------+
 | 3                        | Aufrufen des             | ![](DatenAdler_Handreich |
 |                          | Gesamtdatenkatalogs      | ung_V1.0-Dateien/img0001 |
 |                          | meiner Kommune           | 6.PNG)                   |
 +--------------------------+--------------------------+--------------------------+
-| 4                        | Datenstruktur anlegen. \ | ![](DatenAdler_Handreich |
-|                          | Über Werkzeugbox (8)     | ung_V1.0-Dateien/img0001 |
-|                          | Hinzufügen -\>           | 7.PNG)                   |
+| 4 ,,,,,,,,                       | Datenstruktur anlegen. \ | ![](DatenAdler_Handreich |
+|           ,,,,,,,,,,,,               | Über Werkzeugbox (8)     | ung_V1.0-Dateien/img0001 |
+|                       ,,   | Hinzufügen -\>           | 7.PNG)                   |
 |                          | Datenstruktur            |                          |
 +--------------------------+--------------------------+--------------------------+
 | 5                        | Ausfüllen der            | ![](DatenAdler_Handreich |
