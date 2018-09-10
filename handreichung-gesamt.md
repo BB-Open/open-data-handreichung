@@ -260,7 +260,7 @@ Bisher sind nur die Behörden der unmittelbaren Bundesverwaltung gemäß
 §12a des E-Government-Gesetzes angehalten, ihre elektronischen Daten
 öffentlich zur Verfügung zu stellen. Im Land Brandenburg liegt zwar ein
 abgestimmter E-Government-Gesetzentwurf vor, der bis Ende 2018
-verabschiedet werden soll[^6^](#footnote6), eine Verpflichtung zur
+verabschiedet werden soll[Fn6](#fn6), eine Verpflichtung zur
 Öffnung der Verwaltungsdaten auf Landes- und kommunaler Ebener wird aber
 auch mit dem neuen Gesetz nicht erfolgen. Trotzdem sind auch Kommunen
 dazu angehalten, ihre Verwaltungsdaten zu veröffentlichen. Welche
@@ -276,7 +276,7 @@ Vertrauen, Innovationsförderung und Wirtschaftswachstum sind hierbei
 zentrale Aspekte, die den Nutzen von Open Data beschreiben. Allgemein
 können drei Bereiche/Akteure herausgestellt werden, die von einer
 Öffnung der Daten profitieren: Bürgerinnen und Bürger, Politik und
-Verwaltung, sowie die Wirtschaft.[^7^](#footnote7)^,[^8^](#footnote8)^
+Verwaltung, sowie die Wirtschaft.[Fn7](#fn7)^,[Fn8](#fn8)^
 
 ### Bürgerinnen und Bürger
 
@@ -308,7 +308,7 @@ Verwaltung, sowie die Wirtschaft.[^7^](#footnote7)^,[^8^](#footnote8)^
 Referenzprojekte
 ----------------
 
-Es gibt verschiedene Referenzprojekte[^9^](#footnote9), bei denen der
+Es gibt verschiedene Referenzprojekte[Fn9](#fn9), bei denen der
 Nutzen und die Chancen, die durch die Öffnung von Daten entstehen,
 erkennbar werden. Diese sind nicht immer ausschließlich einzelnen
 Bereichen/Akteuren zuzuordnen und bedienen oftmals eine Schnittmenge der
@@ -439,23 +439,23 @@ bereits erfüllt sind.
 ![](img/img00006.PNG)
 
 *Abbildung 1: Klassifizierung Güte von Daten (in Anlehnung an „Star
-scheme“ nach Tim Berners-Lee[^10^](#footnote10))*
+scheme“ nach Tim Berners-Lee[Fn10](#fn10))*
 
 **Was heißt eigentlich…?**
 
-**Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt worden, auch für Maschinen lesbar zu sein, anstatt nur für Menschen[^11^](#footnote11). Dies lässt sich auch daran erkennen, dass man einen Text markieren und kopieren kann.                              
+**Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt worden, auch für Maschinen lesbar zu sein, anstatt nur für Menschen[Fn11](#fn11). Dies lässt sich auch daran erkennen, dass man einen Text markieren und kopieren kann.                              
 
 **Datenformat** – beschreibt die Weise, in der die Informationen abgelegt sind. Oftmals erkennt man das Format einer Datei bereits an ihrem Namen. Die Datei „Tabelle.xls“ ist höchstwahrscheinlich im Format „xls“ (=Excel) gespeichert.                                              
 
 **Strukturiertes Datenformat** – Daten sind strukturiert, wenn sie nicht nur wahllos, sondern zum Beispiel in einer Tabelle mit Spaltennamen abgespeichert wurden.
 
-**Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[^12^](#footnote12)
+**Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[Fn12](#fn12)
 
 **Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz mit den Zuordnungen verwiesen.                                           
 
-[^11^](#footnote11back) [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit),                                        uletzt zugegriffen: 01.09.2018
+[Fn11](#fn11back) [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit),                                        uletzt zugegriffen: 01.09.2018
 
-[^12^](#footnote12back) https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär),                                                   zuletzt zugegriffen: 01.09.2018
+[Fn12](#fn12back) https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär),                                                   zuletzt zugegriffen: 01.09.2018
 
 ![](img/img00005.PNG)
 
@@ -481,7 +481,7 @@ Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben
 lassen, als offene Daten der Öffentlichkeit zur Verfügung stellen. Nur
 so können die beschriebenen positiven Effekte von Open Data erreicht
 werden. Zu folgenden Tätigkeitsbereichen ist die Bereitstellung von
-Datensätzen generell möglich und sinnvoll[^13^](#footnote13):
+Datensätzen generell möglich und sinnvoll[Fn13](#fn13):
 
 Aufgabenbereich      | Daten
 -------------------- | -------------
@@ -602,7 +602,7 @@ das Vorgehen nach dem Prinzip „open by default“ empfohlen. Dieses
 Prinzip besagt, dass Daten, die Regierungen oder Behörden zur Erfüllung
 ihrer Aufgaben erheben, immer zu veröffentlichen sind, es sei denn, sie
 sind sicherheitsrelevant oder haben einen
-Personenbezug[^14^](#footnote14). Aufgrund von neuen Technologien wird
+Personenbezug[Fn14](#fn14). Aufgrund von neuen Technologien wird
 es leider immer einfacher, auch in anonymisierten Daten einen
 Personenbezug herzustellen. Daher müssen die damit verbundenen Risiken
 näher betrachtet werden. Im Folgenden wird eine Risikoabschätzung zum
@@ -613,11 +613,11 @@ Umgang mit Daten im Sinne des Datenschutzes dargelegt.
 Zwischen Open Data und Datenschutz liegt ein offensichtlicher
 Zielkonflikt vor, mit dem sämtliche Behörden, aber auch Unternehmen
 umgehen müssen. Es gilt zunächst die Devise: Offene Daten sollten keine
-unrechtmäßigen Geschäftsmodelle oder das Profiling[^15^](#footnote15)
+unrechtmäßigen Geschäftsmodelle oder das Profiling[Fn15](#fn15)
 von Bürgern ermöglichen.
 
 Auf Seiten der Bürger werden insbesondere drei Datenschutzbedenken in
-Bezug auf Open Data[^16^](#footnote16) geäußert:
+Bezug auf Open Data[Fn16](#fn16) geäußert:
 
 1. Bürger befürchten, dass ihre Daten nicht vertrauenswürdig behandelt
 und veröffentlicht werden und interagieren daher weniger mit
@@ -637,7 +637,7 @@ relevante Daten nicht zu veröffentlichen. Der Fokus bei der Offenlegung
 von Daten sollte zunächst immer auf nicht-personenbezogenen Daten liegen
 und auch sicherheitsrelevante Daten von Regierungen und Behörden dürfen
 selbstverständlich nicht veröffentlicht werden. Geltende Gesetzte, die
-in diesem Zusammenhang Relevanz haben, sind[^17^](#footnote17):
+in diesem Zusammenhang Relevanz haben, sind[Fn17](#fn17):
 
 * EU-Datenschutz Grundverordnung (EU-DSGVO)
 * Brandenburgisches Datenschutzgesetz (BbgDSG)
@@ -659,8 +659,8 @@ von Datensätzen einbezogen werden.
 Um den beschriebenen Zielkonflikt zwischen Open Data und Datenschutz
 bestmöglich aufzulösen und den gesetzlichen Vorgaben Rechnung zu tragen,
 wird eine Risikoabschätzung in Anlehnung an ein Ampelkonzept der
-Stiftung Neue Verantwortung[^18^](#footnote18) und einer
-Risikoabschätzung der Stadt Seattle[^19^](#footnote19) empfohlen, die im
+Stiftung Neue Verantwortung[Fn18](#fn18) und einer
+Risikoabschätzung der Stadt Seattle[Fn19](#fn19) empfohlen, die im
 Folgenden näher erläutert wird. Die Risikoabschätzung sollte vor der
 Veröffentlichung eines Datensatzes durchgeführt werden.
 
@@ -682,7 +682,7 @@ Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung
 oder zu einem oder mehreren besonderen Merkmalen identifiziert werden
 kann, die Ausdruck der physischen, physiologischen, genetischen,
 psychischen, wirtschaftlichen, kulturellen oder sozialen Identität
-dieser natürlichen Person sind[^20^](#footnote20). Die Prüfung auf
+dieser natürlichen Person sind[Fn20](#fn20). Die Prüfung auf
 Personenbezug sollte im Vier-Augen-Prinzip erfolgen. Bei der Prüfung
 muss jeder Datensatz einzeln betrachtet werden. Wenn in einem Datensatz
 kein Personenbezug besteht, kann dieser bedenkenlos als Rohdatensatz
@@ -739,7 +739,7 @@ Nutzungsbedingungen eindeutig regeln. In Anlehnung an diese weltweiten
 Standards wurde in Deutschland von Bund, Ländern und kommunalen
 Spitzenverbänden eine spezielle Lizenz für die Veröffentlichung von
 Verwaltungsdaten in Deutschland entwickelt. Diese eignet sich explizit
-für (offene) Verwaltungsdaten im deutschen Recht[^21^](#footnote21). Es
+für (offene) Verwaltungsdaten im deutschen Recht[Fn21](#fn21). Es
 wird empfohlen, die „Datenlizenz Deutschland“ in einer der zwei
 verfügbaren Versionen zu nutzen:
 
@@ -773,7 +773,7 @@ werden.
 
 Das deutschlandweit bekannteste Open-Data-Portal der öffentlichen
 Verwaltung ist „GovData – Das Datenportal für Deutschland“. Es ist eine
-Anwendung des IT-Planungsrates[^22^](#footnote22) und stellt die oberste
+Anwendung des IT-Planungsrates[Fn22](#fn22) und stellt die oberste
 Hierarchieebene von Open-Government-Data-Portalen in Deutschland dar. Es
 hat den Anspruch, alle landesweiten und kommunalen offenen Daten
 Deutschlands zu beinhalten und ist eine Umsetzungsmaßnahme des bereits
@@ -799,12 +799,12 @@ kommunalen Open-Data-Portal (wie
 [https://opendata.potsdam.de/](https://opendata.potsdam.de/))
 veröffentlicht sind automatisch per „Harvesting“ zu verweisen. Es ist
 auch beabsichtigt, dass in Zukunft auch die Geodaten der kommunalen
-Geodaten-Portale geharvested werden^[^23^](#footnote23)^.
+Geodaten-Portale geharvested werden^[Fn23](#fn23)^.
 
 Der DatenAdler ist nicht dafür ausgelegt, die enthaltenen Daten direkt
 zu verarbeiten. Er stellt ein reines Verzeichnis für Metadaten dar.
 Metadaten sind strukturierte Daten, die Informationen über Merkmale
-anderer Rohdaten enthalten[^24^](#footnote24). Beispielsweise ist die
+anderer Rohdaten enthalten[Fn24](#fn24). Beispielsweise ist die
 Information über den Autor eines Buches ein Metadatum des jeweiligen
 Buches.
 
@@ -854,7 +854,7 @@ Der DatenAdler unterscheidet zwischen der Nutzung ohne Anmeldung (Ab)
 und verschiedenen angemeldeten Nutzern, die jeweils nur Zugriff auf die
 Inhalte ihrer Kommune haben. Innerhalb des Bereichs einer Kommune
 bestimmen Berechtigungsrollen die Rechte der Nutzer. Beim Anlegen eines
-Nutzers legt die Nutzerverwaltung[^25^](#footnote25) die notwendige
+Nutzers legt die Nutzerverwaltung[Fn25](#fn25) die notwendige
 Berechtigungsrolle nach dem Schema in Ta fest.
 
 *Tabelle 1: Rollenkonzept*
@@ -1053,7 +1053,7 @@ vorbestimmten Kategorie des Datenadlers zuweisen.
 #### *Kontakt*
 
 Als Kontakt (24) lässt sich ggf. ein Mitarbeiter aus einer Liste
-Auswählen.[^26^](#footnote26)
+Auswählen.[Fn26](#fn26)
 
 ### Distribution
 
@@ -1159,7 +1159,7 @@ werden, sofern die Lizenzangabe wie empfohlen durch die Auswahl von
 #### *Format*
 
 Im Feld „Format“ (32) lässt sich das Dateiformat der Distribution
-auswählen[^27^](#footnote27).
+auswählen[Fn27](#fn27).
 
 #### *Veröffentlicht und Geändert*
 
@@ -1264,50 +1264,52 @@ http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/informationssystem
 https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Manifest.html,
 zuletzt zugegriffen: 01.09.2018
 
-[^3^](#footnote3back)
- [https://www.zu.de/institute/togi/assets/pdf/TICC-101203-OpenGovernmentData-V1.pdf](https://www.zu.de/institute/togi/assets/pdf/TICC-101203-OpenGovernmentData-V1.pdf),
+##### FN3
+[https://www.zu.de/institute/togi/assets/pdf/TICC-101203-OpenGovernmentData-V1.pdf](https://www.zu.de/institute/togi/assets/pdf/TICC-101203-OpenGovernmentData-V1.pdf),
 zuletzt zugegriffen: 01.09.2018
 
-[^4^](#footnote4back)
+##### FN4
 https://www.govdata.de/documents/10156/18448/GovData\_Open-Data-Kriterien\_der\_Sunlight\_Foundation.pdf/,
 zuletzt zugegriffen: 01.09.2018
 
-[^5^](#footnote5back)
+##### FN5
 [https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2014/aktionsplan-open-data.pdf?\_\_blob=publicationFile&v=1](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2014/aktionsplan-open-data.pdf?__blob=publicationFile&v=1),
 zuletzt zugegriffen: 01.09.2018
 
-[^6^](#footnote6back)
+##### FN6
  [https://mik.brandenburg.de/media\_fast/4055/EGov%20Handout.pdf](https://mik.brandenburg.de/media_fast/4055/EGov%20Handout.pdf),
 zuletzt zugegriffen: 01.09.2018
 
-[^7^](#footnote7back)  Konrad-Adenauer-Stiftung: Open Data – Die
-wichtigsten Fakten zu offenen Daten
+##### FN7
+Konrad-Adenauer-Stiftung: Open Data – Die wichtigsten Fakten zu offenen Daten
 
-[^8^](#footnote8back)
+##### FN8
  [opendatahandbook.org/guide/de/why-open-data](opendatahandbook.org/guide/de/why-open-data),
 zuletzt zugegriffen: 01.09.2018
 
-[^9^](#footnote9back)
- [https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Neue-Konzepte-erfolgreich-umsetzen.html](https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Neue-Konzepte-erfolgreich-umsetzen.html),
+##### FN9
+[https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Neue-Konzepte-erfolgreich-umsetzen.html](https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Neue-Konzepte-erfolgreich-umsetzen.html),
 zuletzt zugegriffen: 01.09.2018
 
-[^10^](#footnote10back)  In Anlehnung an
+##### FN10
+In Anlehnung an
 [http://5stardata.info/de/](http://5stardata.info/de/),
 [https://www.w3.org/DesignIssues/LinkedData.html](https://www.w3.org/DesignIssues/LinkedData.html)
 zuletzt zugegriffen: 01.09.2018
 
-[^13^](#footnote13back)  abgleitet aus der Kommunalverfassung des Landes
-Brandenburg:
+##### FN13 
+Abgleitet aus der Kommunalverfassung des Landes Brandenburg:
 [http://bravors.brandenburg.de/gesetze/bbgkverf\#2](http://bravors.brandenburg.de/gesetze/bbgkverf),
 zuletzt zugegriffen: 01.09.2018
 
  
-
-[^14^](#footnote14back)  vgl.
+##### FN14
+vgl.
 [http://opendatahandbook.org/guide/de/what-is-open-data](http://opendatahandbook.org/guide/de/what-is-open-data)/,
 zuletzt zugegriffen: 01.09.2018
 
-[^15^](#footnote15back)  “Profiling bezeichnet die Erstellung,
+##### FN15
+“Profiling bezeichnet die Erstellung,
 Aktualisierung und Verwendung von Profilen durch Sammlung von (auch im
 Internet gewonnener) Daten, sowie deren anschließende Analyse und
 Auswertung, zum Zwecke der Identifikation und Überwachung von Personen,
@@ -1317,50 +1319,54 @@ Meinungsbeeinflussung.”
 ([https://de.wikipedia.org/wiki/Profiling](https://de.wikipedia.org/wiki/Profiling)),
 zuletzt zugegriffen: 01.09.2018
 
-[^16^](#footnote16back)  vgl. Zuiderveen Borgesius, F. J., Eechoud, M.
+##### FN16
+vgl. Zuiderveen Borgesius, F. J., Eechoud, M.
 van, Gray, J., Borgesius, F. Z., van Eechoud, M. und Gray, J. (2015)
 „Open Data, Privacy, and Fair Information Principles: Towards a
 Balancing Framework“, *Amsterdam Law School Legal Studies Research Paper
 No. 2015-32, Institute for Information Law Research Paper No. 2015-02*,
 (No. 2015-46), S. 46. doi: 10.15779/Z389S18.
 
-[^17^](#footnote17back)  in Anlehnung an: Manske, J. und Knobloch, T.
+##### FN17
+in Anlehnung an: Manske, J. und Knobloch, T.
 (2017) *Leitfaden für Datenschutz bei Open Data*.
 
-[^18^](#footnote18back)  vgl. ebd.
+##### FN18
+vgl. ebd.
 
-[^19^](#footnote19back)  City of Seattle (2018) „Open Data Risk
-Analysis“.
+##### FN19
+City of Seattle (2018) „Open Data Risk Analysis“.
 
-[^20^](#footnote20back)  Art. 4 DSGVO Begriffsbestimmungen,
+##### FN20
+Art. 4 DSGVO Begriffsbestimmungen,
 [https://dejure.org/gesetze/DSGVO/4.html](https://dejure.org/gesetze/DSGVO/4.html),
 zuletzt zugegriffen: 01.09.2018
 
-[^21^](#footnote21back)
- [https://www.govdata.de/web/guest/lizenzen](https://www.govdata.de/web/guest/lizenzen),
+##### FN21
+[https://www.govdata.de/web/guest/lizenzen](https://www.govdata.de/web/guest/lizenzen),
 zuletzt zugegriffen: 01.09.2018
 
-[^22^](#footnote22back)
- [https://www.govdata.de/web/guest/faq](https://www.govdata.de/web/guest/faq),
+##### FN22
+[https://www.govdata.de/web/guest/faq](https://www.govdata.de/web/guest/faq),
 zuletzt zugegriffen: 01.09.2018
 
-[^23^](#footnote23back)  Bezüglich des Harvestings ihres kommunalen
-„Open-Data-Portals“ oder „Geodaten-Portals“ wenden Sie sich an
+##### FN23
+Bezüglich des Harvestings ihres kommunalen „Open-Data-Portals“ oder „Geodaten-Portals“ wenden Sie sich an
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de).
 
-[^24^](#footnote24back)
- [https://de.wikipedia.org/wiki/Metadaten](https://de.wikipedia.org/wiki/Metadaten),
+##### FN24
+[https://de.wikipedia.org/wiki/Metadaten](https://de.wikipedia.org/wiki/Metadaten),
 zuletzt zugegriffen: 01.09.2018
 
-[^25^](#footnote25back)  Die Nutzerverwaltung wird von Mitarbeitern des
-Referats 11 des MIK wahrgenommen. Für Fragen und Anregungen wenden Sie
-sich an
-[webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de)
+##### FN25
+Die Nutzerverwaltung wird von Mitarbeitern des Referats 11 des MIK wahrgenommen. Für Fragen und Anregungen wenden Sie
+sich an [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de)
 
-[^26^](#footnote26back)  Für Fragen zum Anlegen von Kontakten wenden Sie
-sich an
+##### FN26
+Für Fragen zum Anlegen von Kontakten wenden Sie sich an
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de).
 
-[^27^](#footnote27back)  Für die Freischaltung weiterer Dateiformate
-wenden Sie sich an
+##### FN27
+Für die Freischaltung weiterer Dateiformate wenden Sie sich an
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de).
+
