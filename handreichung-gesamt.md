@@ -3,7 +3,8 @@ August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 # Open Data in den Kommunen des Landes Brandenburg
 **Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler**
 
-![CreativeTail's Animal_ Eagle](img/Creative-Tail-Animal-eagle-300x300.png)
+![Sinnbild](img/Creative-Tail-Animal-eagle-300x300.png "Adlerkopf auf rotem Grund")
+
 
 **Autoren:**
 * Clementine Bertheau
@@ -132,7 +133,7 @@ findet eine Neugestaltung der Zusammenarbeit zwischen öffentlichen
 Verwaltungen, der Gesellschaft und der Wirtschaft statt. Der Open
 Government Ansatz wird dabei von drei grundlegenden Säulen getragen:
 Transparenz, Partizipation und
-Kollaboration[^1^](#footnote1)^,[^2^](#footnote2),[^3^](#footnote3)^.
+Kollaboration[Fn1][FN1],[^2^](#footnote2),[^3^](#footnote3)^.
 
 ### Transparenz
 
@@ -1257,9 +1258,7 @@ Schlagwortverzeichnis „DatenAdler“ A-Z
 
 * * * * *
 
-[^1^](#footnote1back)
-[http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/informationssysteme/Sektorspezifische-Anwendungssysteme/Offentliche-Verwaltungen--Anwendungssysteme-fur/open-government/open-government-inkl.-open-data-auch-mit-blick-auf-verschiedene-anwendungen/?searchterm=open%20data%20government](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/informationssysteme/Sektorspezifische-Anwendungssysteme/Offentliche-Verwaltungen--Anwendungssysteme-fur/open-government/open-government-inkl.-open-data-auch-mit-blick-auf-verschiedene-anwendun),
-zuletzt zugegriffen: 01.09.2018
+[FN1] http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/informationssysteme/Sektorspezifische-Anwendungssysteme/Offentliche-Verwaltungen--Anwendungssysteme-fur/open-government/open-government-inkl.-open-data-auch-mit-blick-auf-verschiedene-anwendungen/?searchterm=open%20data%20government, zuletzt zugegriffen: 01.09.2018
 
 [^2^](#footnote2back)
  [https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Manifest.html](https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Manifest.html),
@@ -1336,8 +1335,6 @@ Analysis“.
 [^20^](#footnote20back)  Art. 4 DSGVO Begriffsbestimmungen,
 [https://dejure.org/gesetze/DSGVO/4.html](https://dejure.org/gesetze/DSGVO/4.html),
 zuletzt zugegriffen: 01.09.2018
-
- 
 
 [^21^](#footnote21back)
  [https://www.govdata.de/web/guest/lizenzen](https://www.govdata.de/web/guest/lizenzen),
