@@ -66,7 +66,7 @@ Hilfestellungen gegeben, wie sich die Kommunen im Land Brandenburg der
 Arbeit mit Open Data nähern können und welche Vorüberlegungen zu treffen
 sind. Der dritte Abschnitt umfasst konkrete operative Werkzeuge zur
 Datenbereitstellung durch die Kommunen auf dem Landesportal
-DatenAdler.de.
+[DatenAdler.de](https://datenadler.de).
 
 ## Inhalt
 
@@ -132,7 +132,7 @@ findet eine Neugestaltung der Zusammenarbeit zwischen öffentlichen
 Verwaltungen, der Gesellschaft und der Wirtschaft statt. Der Open
 Government Ansatz wird dabei von drei grundlegenden Säulen getragen:
 Transparenz, Partizipation und
-Kollaboration[Fn1](#fn1), [Fn2](#fn2), [^3^](#footnote3)^.
+Kollaboration[Fn1](#fn1), [Fn2](#fn2), [Fn3](#fn3).
 
 ### Transparenz
 
@@ -176,7 +176,7 @@ Teilmenge von Open Government und stellt somit einen wesentlichen
 Grundbaustein für die Schaffung von Transparenz im Sinne von Open
 Government dar. Um einen gewissen Standard bei der Veröffentlichung zu
 fördern, definierte die Sunlight Foundation bereits 2007 zehn Prinzipien
-zur Öffnung von Regierungsdaten[^4^](#footnote4):
+zur Öffnung von Regierungsdaten[Fn4](#fn4):
 
 **1. Vollständigkeit**
 
@@ -246,7 +246,7 @@ vorsitzenden acht Staaten eine Open-Data-Charta und bekannten sich damit
 auf internationaler Ebene zur Veröffentlichung von Verwaltungsdaten. Die
 Umsetzung der Charta ist in Deutschland 2014 in Form eines Nationalen
 Aktionsplans der Bundesregierung festgelegt worden, der vier
-Verpflichtungen enthält[^5^](#footnote5):
+Verpflichtungen enthält[Fn5](#fn5):
 
 1. Ein klares Richtungssignal für offene Daten in Deutschland
 
