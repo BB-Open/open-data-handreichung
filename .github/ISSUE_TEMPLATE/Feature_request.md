@@ -1,6 +1,6 @@
 ---
 name: Vorschlag zur Verbesserung
-about: Haben Sie Vorschläge, wie wir die Handreichung verbesserh können?
+about: Haben Sie Vorschläge, wie wir die Handreichung verbessern können?
 
 ---
 
