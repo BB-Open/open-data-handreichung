@@ -862,11 +862,11 @@ Berechtigungsrolle nach dem Schema in Ta fest.
 
 **Rollen und Rahmenbedingungen**
 
-* **ProviderDataEditor**  \
+* **ProviderDataEditor**
   * Dem Nutzer obliegt die eingeschränkte Anpassung und Gestaltung der Seite der Kommune.
   * Der Datenbereitsteller kann Rohdaten innerhalb einer Distribution hochladen oder auf Daten außerhalb des Portals (zum Beispiel auf eigener Webseite) verweisen.
   * Ein Katalog ist bereits vorgegeben.
-  * Es können lediglich Datensätze und Distributionen innerhalb des vorgegebenen Katalogs angelegt werden.
+  * *Es können lediglich Datensätze und Distributionen innerhalb des vorgegebenen Katalogs angelegt werden.
 * **ProviderChiefEditor**
   * Der Nutzer verfügt über alle Berechtigungen der Rolle „ProviderDataEditor“.
   * Der Nutzer hat erweiterte Gestaltungsmöglichkeiten für die Seite der Kommune. So kann diese zum Beispiel mit verantwortlichen Stellen, Unterseiten, Dateien und Bilder angereichert werden. 
@@ -899,24 +899,13 @@ Möglichkeiten durch das Klicken auf den jeweiligen
 Werkzeugkasteneintrag:
 
 - (11): Vergrößern / Verkleinern der Darstellung der Werkzeugbox
-
-- (12): Anzeigen (Aktualisieren) / Wechsel in den Anzeigemodus der
-aktuell aufgerufenen Seite
-
+- (12): Anzeigen (Aktualisieren) / Wechsel in den Anzeigemodus der aktuell aufgerufenen Seite
 - (13): Aufrufen der Änderungshistorie der aktuell aufgerufenen Seite
-
 - (14): Anzeigen der möglichen Aktionen für den angemeldeten Benutzer
-
-o (14.1): Aufrufen der eigenen Einstellungen mit Möglichkeit der
-Passwortänderung
-
-o (14.2): Aufrufen des [Dashboards], einer selbst konfigurierbaren
-Übersichtsseite, des Nutzers
-
+  * (14.1): Aufrufen der eigenen Einstellungen mit Möglichkeit der Passwortänderung
+  * (14.2): Aufrufen des [Dashboards], einer selbst konfigurierbaren Übersichtsseite, des Nutzers 
 ![](img/img00010.PNG)
-
-o (14.3): Abmelden des aktuell angemeldeten Nutzers
-
+  * (14.3): Abmelden des aktuell angemeldeten Nutzers
 ![](img/img00013.PNG)
 
 Wenn sich ein Nutzer aber auf einer von ihm verantworteten Seite
@@ -926,89 +915,32 @@ Kommunenseite auf, stehen ihm folgende Werkzeuge zusätzlich zur
 Verfügung (Ab):
 
 - (15): Wechsel zum Bearbeitungsmodus der aktuell aufgerufenen Seite
+- (16): Hinzufügen eines Objekts als Unterelement der aktuell aufgerufenen Seite\
+Auf der Startseite der Kommune können Nutzer der Rolle „ProviderChiefEditor“ folgende Objekte hinzufügen:
 
-- (16): Hinzufügen eines Objekts als Unterelement der aktuell
-aufgerufenen Seite\
-Auf der Startseite der Kommune können Nutzer der Rolle
-„ProviderChiefEditor“ folgende Objekte hinzufügen:
-
-o (16.1) Bilder
-
-o (16.2) Dateien
-
+- (16.1) Bilder
+- (16.2) Dateien
 ![](img/img00010.PNG)
-
-o (16.3) Ordner
-
-o (16.4) Seiten
-
-- (17): Ändern des Status der aktuell aufgerufenen Seite (Privat = nur
-für aktuellen Benutzer ersichtlich, Veröffentlichen = Seite
+- (16.3) Ordner
+- (16.4) Seiten
+- (17): Ändern des Status der aktuell aufgerufenen Seite (Privat = nur für aktuellen Benutzer ersichtlich, Veröffentlichen = Seite
 unangemeldeten Nutzern des DatenAdlers zugänglich machen)
-
-- (18): Kopieren oder Einfügen einer anderen Seite als Unterseite der
-aktuell aufgerufenen Seite
-
-- (19): Verändern der Darstellungsweise der Seite (Vorsicht: Eine
-Änderung betrifft die Darstellung für alle Benutzer!)
-
- 
+- (18): Kopieren oder Einfügen einer anderen Seite als Unterseite der aktuell aufgerufenen Seite
+- (19): Verändern der Darstellungsweise der Seite (Vorsicht: Eine Änderung betrifft die Darstellung für alle Benutzer!)
 
 ### Zusammenfassung: Der kürzeste Weg zur Veröffentlichung meines ersten Open-Data-Datensatzes
 
-**Schritt**              | **Aktion**               | **Schaltfläche**
---------------------------|--------------------------|--------------------------
- 1                        | Anmelden mit Benutzername und Passwort   | ![](img/img00014.PNG)
- 2                        | Aufrufen meines persönlichen [Dashboards] | ![](img/img00015.PNG)
- 
+**Schritt**  | **Aktion**               | **Schaltfläche**
+-------------|--------------------------|--------------------------
+ 1           | Anmelden mit Benutzername und Passwort   | ![](img/img00014.PNG)
+ 2           | Aufrufen meines persönlichen [Dashboards] | ![](img/img00015.PNG)
+ 3           | Aufrufen des Gesamtdatenkatalogs meiner Kommune | ![](img/img00016.PNG)
+ 4           | Datenstruktur anlegen. \ Über Werkzeugbox (8) Hinzufügen -\> Datenstruktur | ![](img/img00017.PNG)
+ 5           | Ausfüllen der Pflichtfelder (zu erkennen an rotem Punkt, zum Beispiel ![](img/img00018.PNG), dann „Speichern“  | ![](img/img00019.PNG)
+ 6           | Distribution (die Daten an sich) anlegen. \ Über Werkzeugbox (8) Hinzufügen -\> Distribution  | ![](img/img00020.PNG)
+ 7           | Ausfüllen der Pflichtfelder mit Titel und Beschreibung, dann „Speichern“ | ![](img/img00019.PNG)
+ 8           | Distribution veröffentlichen. \ Über Werkzeugbox (8) Status -\> Veröffentlichen  | ![](img/img00021.PNG)
 
-
-+--------------------------+--------------------------+--------------------------+
-| **Schritt**              | **Aktion**               | **Schaltfläche**         |
-+--------------------------+--------------------------+--------------------------+
-| 1                        | Anmelden mit             | ![](DatenAdler_Handreich |
-|                          | Benutzername und         | ung_V1.0-Dateien/img0001 |
-|                          | Passwort                 | 4.PNG)                   |
-+--------------------------+--------------------------+--------------------------+
-| 2                        | Aufrufen meines          | ![](DatenAdler_Handreich |
-|                          | persönlichen             | ung_V1.0-Dateien/img0001 |
-,,,,|                          | [Dashboards]             | 5.PNG)                   |
-+--------------------------+--------------------------+--------------------------+
-| 3                        | Aufrufen des             | ![](DatenAdler_Handreich |
-|                          | Gesamtdatenkatalogs      | ung_V1.0-Dateien/img0001 |
-|                          | meiner Kommune           | 6.PNG)                   |
-+--------------------------+--------------------------+--------------------------+
-| 4 ,,,,,,,,                       | Datenstruktur anlegen. \ | ![](DatenAdler_Handreich |
-|           ,,,,,,,,,,,,               | Über Werkzeugbox (8)     | ung_V1.0-Dateien/img0001 |
-|                       ,,   | Hinzufügen -\>           | 7.PNG)                   |
-|                          | Datenstruktur            |                          |
-+--------------------------+--------------------------+--------------------------+
-| 5                        | Ausfüllen der            | ![](DatenAdler_Handreich |
-|                          | Pflichtfelder (zu        | ung_V1.0-Dateien/img0001 |
-|                          | erkennen an rotem Punkt, | 9.PNG)                   |
-|                          | zum Beispiel             |                          |
-|                          | ![](DatenAdler_Handreich |                          |
-|                          | ung_V1.0-Dateien/img0001 |                          |
-|                          | 8.PNG)),                 |                          |
-|                          | dann „Speichern“         |                          |
-+--------------------------+--------------------------+--------------------------+
-| 6                        | Distribution (die Daten  | ![](DatenAdler_Handreich |
-|                          | an sich) anlegen. \      | ung_V1.0-Dateien/img0002 |
-|                          | Über Werkzeugbox (8)     | 0.PNG)                   |
-|                          | Hinzufügen -\>           |                          |
-|                          | Distribution             |                          |
-+--------------------------+--------------------------+--------------------------+
-| 7                        | Ausfüllen der            | ![](DatenAdler_Handreich |
-|                          | Pflichtfelder mit Titel  | ung_V1.0-Dateien/img0001 |
-|                          | und Beschreibung, dann   | 9.PNG)                   |
-|                          | „Speichern“              |                          |
-+--------------------------+--------------------------+--------------------------+
-| 8                        | Distribution             | ![](DatenAdler_Handreich |
-|                          | veröffentlichen. \       | ung_V1.0-Dateien/img0002 |
-|                          | Über Werkzeugbox (8)     | 1.PNG)                   |
-|                          | Status -\>               |                          |
-|                          | Veröffentlichen          |                          |
-+--------------------------+--------------------------+--------------------------+
 
 Der Metadatenstandard DCAT-AP
 -----------------------------
@@ -1093,7 +1025,7 @@ Art Inhaltsverzeichnis zur Beschreibung des Dokuments dienlich sein.
 *Beispiel: Für eine mögliche Inhaltserfassung:*
 
 *Das Dokument zu Sachverhalt XY erhält folgenden Abschnitte:*
-
+,
 *1) Einführung zu XY*
 
 *2) Erfasste Daten zu XY in den Jahren 2000-2015*
@@ -1203,7 +1135,7 @@ o Zu Fall 3: entfällt
 #### *Download URL (29)*
 
 o Zu Fall 1: In diesem Feld (29) sollte der direkte Download-Link für
-die Distribution als http-Adresse eingefügt werden.
+d3ie Distribution als http-Adresse eingefügt werden.
 
 o Zu Fall 2: In diesem Feld (29) sollte der direkte Download-Link für
 die Distribution als http-Adresse eingefügt werden.
