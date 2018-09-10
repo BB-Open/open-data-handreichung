@@ -99,8 +99,7 @@ DatenAdler.de.
 **[Wie arbeite ich mit dem DatenAdler?](#wie-arbeite-ich-mit-dem-datenadler)**
 * [Funktionsweise des DatenAdlers](#funktionsweise-des-datenadlers)
   * [Zusammenfassung: Der kürzeste Weg zur Veröffentlichung meines ersten Open-Data-Datensatzes](#zusammenfassung-der-kürzeste-weg-zur-veröffentlichung-meines-ersten-open-data-datensatzes)
-
-*[Der Metadatenstandard DCAT-AP](#der-metadatenstandard-dcat-ap)
+* [Der Metadatenstandard DCAT-AP](#der-metadatenstandard-dcat-ap)
   * [Gesamtkatalog](#gesamtkatalog)
   * [Datenstruktur](#datenstruktur)
   * [Distribution](#distribution)
@@ -133,7 +132,7 @@ findet eine Neugestaltung der Zusammenarbeit zwischen öffentlichen
 Verwaltungen, der Gesellschaft und der Wirtschaft statt. Der Open
 Government Ansatz wird dabei von drei grundlegenden Säulen getragen:
 Transparenz, Partizipation und
-Kollaboration[Fn1][FN1],[^2^](#footnote2),[^3^](#footnote3)^.
+Kollaboration[Fn1](#fn1), [Fn2](#fn2), [^3^](#footnote3)^.
 
 ### Transparenz
 
@@ -1258,10 +1257,11 @@ Schlagwortverzeichnis „DatenAdler“ A-Z
 
 * * * * *
 
-[FN1] http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/informationssysteme/Sektorspezifische-Anwendungssysteme/Offentliche-Verwaltungen--Anwendungssysteme-fur/open-government/open-government-inkl.-open-data-auch-mit-blick-auf-verschiedene-anwendungen/?searchterm=open%20data%20government, zuletzt zugegriffen: 01.09.2018
+##### FN1
+http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/informationssysteme/Sektorspezifische-Anwendungssysteme/Offentliche-Verwaltungen--Anwendungssysteme-fur/open-government/open-government-inkl.-open-data-auch-mit-blick-auf-verschiedene-anwendungen/?searchterm=open%20data%20government, zuletzt zugegriffen: 01.09.2018
 
-[^2^](#footnote2back)
- [https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Manifest.html](https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Manifest.html),
+##### FN2
+https://www.bitkom.org/Bitkom/Publikationen/Open-Data-Manifest.html,
 zuletzt zugegriffen: 01.09.2018
 
 [^3^](#footnote3back)
