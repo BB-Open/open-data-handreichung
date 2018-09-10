@@ -1,6 +1,6 @@
 ---
 name: Fehler-Hinweis
-about: Schreiben Sie einen Fehler auf, damit das Handbuch besser wird.
+about: Schreiben Sie einen Fehler auf, damit wir sie entfernen.
 ---
 
 ### Beschreibung
@@ -10,3 +10,4 @@ about: Schreiben Sie einen Fehler auf, damit das Handbuch besser wird.
 ### Zusätzliche Information
 * Browser
 * Betriebsystem
+
