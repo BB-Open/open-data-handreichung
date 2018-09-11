@@ -364,16 +364,15 @@ Sortimente an welchen Standorten gewinnbringen sind.
 Wie gehe ich an die Arbeit mit Open Data heran?
 ===============================================
 
-**Was ist der einfachste Weg die Datenqualität zu verbessern?**
-
+![](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
+> ### Was ist der einfachste Weg die Datenqualität zu verbessern?
+>
 > Möchte man die Bewertung des Datensatzes verbessern, so ist der Sprung von 3 auf 4 Adler der einfachste. Die Software Microsoft Excel bietet zum Beispiel eine einfache Möglichkeit, Tabellen in dem nicht proprietären Format „CSV“ abzuspeichern. Die Funktion verbirgt sich im Menü Datei -\> Speichern unter. Hier kann bei der Auswahlschaltfläche „Dateiformat“ das Format „CSV“ ausgewählt und die Datei anschließend abgespeichert werden.
 > 
 > Auf demselben Weg können auch Dokumente in Microsoft Word als „OCT“ abgespeichert werden.
 >
 > **Vorsicht:** *Das Dateiformat „CSV“ unterstützt keine Formatierungen.*
 
-
-![](img/img00005.PNG)
 
 Im Folgenden wird auf die notwendige Datenqualität offener Daten, auf
 die Möglichkeiten der Datenidentifizierung, auf Datenschutzmaßnahmen,
@@ -432,23 +431,24 @@ bereits erfüllt sind.
 *Abbildung 1: Klassifizierung Güte von Daten (in Anlehnung an „Star
 scheme“ nach Tim Berners-Lee [Fn10](#fn10))*
 
-**Was heißt eigentlich…?**
 
-**Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt worden, auch für Maschinen lesbar zu sein, anstatt nur für Menschen[Fn11](#fn11). Dies lässt sich auch daran erkennen, dass man einen Text markieren und kopieren kann.                              
+![](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
 
-**Datenformat** – beschreibt die Weise, in der die Informationen abgelegt sind. Oftmals erkennt man das Format einer Datei bereits an ihrem Namen. Die Datei „Tabelle.xls“ ist höchstwahrscheinlich im Format „xls“ (=Excel) gespeichert.                                              
-
-**Strukturiertes Datenformat** – Daten sind strukturiert, wenn sie nicht nur wahllos, sondern zum Beispiel in einer Tabelle mit Spaltennamen abgespeichert wurden.
-
-**Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[Fn12](#fn12)
-
-**Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz mit den Zuordnungen verwiesen.                                           
-
-[Fn11](#fn11back) [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit),                                        uletzt zugegriffen: 01.09.2018
-
-[Fn12](#fn12back) https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär),                                                   zuletzt zugegriffen: 01.09.2018
-
-![](img/img00005.PNG)
+> ### Was heißt eigentlich…?
+>
+> **Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt worden, auch für Maschinen lesbar zu sein, anstatt nur für Menschen[Fn11](#fn11). Dies lässt sich auch daran erkennen, dass man einen Text markieren und kopieren kann.                              
+> 
+> **Datenformat** – beschreibt die Weise, in der die Informationen abgelegt sind. Oftmals erkennt man das Format einer Datei bereits an ihrem Namen. Die Datei „Tabelle.xls“ ist höchstwahrscheinlich im Format „xls“ (=Excel) gespeichert.                                              
+> 
+> **Strukturiertes Datenformat** – Daten sind strukturiert, wenn sie nicht nur wahllos, sondern zum Beispiel in einer Tabelle mit Spaltennamen abgespeichert wurden.
+> 
+> **Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[Fn12](#fn12)
+> 
+> **Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz mit den Zuordnungen verwiesen.                                           
+> 
+>[Fn11](#fn11back) [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit),                                        zuletzt zugegriffen: 01.09.2018
+> 
+> [Fn12](#fn12back) https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär),                                                   zuletzt zugegriffen: 01.09.2018
 
 
 
