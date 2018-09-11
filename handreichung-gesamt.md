@@ -18,7 +18,7 @@ Frank Schiersner  \
 Referat 11  \
 [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de)
 
-Ministerium des Inneren und für Kommunales des Landes Brandenburg (MIK)  \
+Ministerium des Innern und für Kommunales des Landes Brandenburg (MIK)  \
 Henning-von-Tresckow-Str. 9-13  \
 14467 Potsdam
 
@@ -318,8 +318,8 @@ grundlegenden Innovationen.
 
 ### Wheelmap
 
-![](img/img00001.PNG)
-![](img/img00002.PNG)
+![](img/img00001.PNG "Bildschirmfoto von Wheelmap.org zeigt Kartenansicht")
+![](img/img00002.PNG "Bildschirmfoto von Wheelmap.org Detail-Angaben zu einem Ort")
 
 Die [Wheelmap](https://wheelmap.org/map) ist eine auf OpenStreetMap
 basierende Karte, die es Rollstuhlfahrern ermöglicht, ihren Alltag
@@ -334,8 +334,8 @@ Einträge hinzu.
 
 ### Transparent München
 
-![](img/img00003.PNG)
-![](img/img00004.PNG)
+![](img/img00003.PNG "Bildschirmfoto von Transparent München zeigt Kartenansicht")
+![](img/img00004.PNG "Bildschirmfoto von Transparent München zeigt Funktionsauswahl")
 
 Das Portal [Transparent München](https://www.muenchen-transparent.de/)
 gibt Bürgern die Möglichkeit, sich über aktuelle Vorgänge des Stadtrats
@@ -364,22 +364,14 @@ Sortimente an welchen Standorten gewinnbringen sind.
 Wie gehe ich an die Arbeit mit Open Data heran?
 ===============================================
 
-```
-Was ist der einfachste Weg die Datenqualität zu verbessern?
+**Was ist der einfachste Weg die Datenqualität zu verbessern?**
 
- Möchte man die Bewertung des Datensatzes verbessern, so ist der Sprung
- von 3 auf 4 Adler der einfachste. Die Software Microsoft Excel bietet 
- zum Beispiel eine einfache Möglichkeit, Tabellen in dem nicht         
- proprietären Format „CSV“ abzuspeichern. Die Funktion verbirgt sich im 
- Menü Datei -\> Speichern unter. Hier kann bei der Auswahlschaltfläche  
- „Dateiformat“ das Format „CSV“ ausgewählt und die Datei anschließend   
- abgespeichert werden.                                                  
-                                                                        
- Auf demselben Weg können auch Dokumente in Microsoft Word als „OCT“    
- abgespeichert werden.                                                  
-                                                                        
- **Vorsicht:** Das Dateiformat „CSV“ unterstützt keine Formatierungen.  
-```
+> Möchte man die Bewertung des Datensatzes verbessern, so ist der Sprung von 3 auf 4 Adler der einfachste. Die Software Microsoft Excel bietet zum Beispiel eine einfache Möglichkeit, Tabellen in dem nicht proprietären Format „CSV“ abzuspeichern. Die Funktion verbirgt sich im Menü Datei -\> Speichern unter. Hier kann bei der Auswahlschaltfläche „Dateiformat“ das Format „CSV“ ausgewählt und die Datei anschließend abgespeichert werden.
+> 
+> Auf demselben Weg können auch Dokumente in Microsoft Word als „OCT“ abgespeichert werden.
+>
+> **Vorsicht:** *Das Dateiformat „CSV“ unterstützt keine Formatierungen.*
+
 
 ![](img/img00005.PNG)
 
@@ -404,8 +396,7 @@ sich, sich mit der Frage der Datenqualität zu beschäftigen.
 Ob und wie die Daten nach der Veröffentlichung genutzt werden, hängt
 maßgeblich von der Qualität der veröffentlichen Daten ab.
 
-*Generell gilt jedoch: Besser Daten mit mangelhafter Qualität
-veröffentlichen als keine Daten veröffentlichen.*
+> **Generell gilt jedoch: Besser Daten mit mangelhafter Qualität veröffentlichen als keine Daten veröffentlichen.**
 
 Um die Datenqualität zu erhöhen, genügt es manchmal schon, die Daten
 einem Unbeteiligten zu zeigen. Diesem fällt oftmals schneller auf, dass
@@ -420,8 +411,8 @@ als Anregung verwenden. Die Werkzeuge dieses Dokuments werden bereits
 erfolgreich in der Stadt Wien eingesetzt.
 
 Einen gut verständlichen Überblick über die Begrifflichkeiten im Umgang
-mit der Qualität von Daten bietet das [Schulungsmaterial der
-Organisation „Open Data
+mit der Qualität von Daten bietet das 
+[Schulungsmaterial der Organisation „Open Data
 Support“](https://www.europeandataportal.eu/sites/default/files/d2.1.2_training_module_2.2_open_data_quality_de_edp.pdf).
 
 Bei Daten, die sich oft ändern, lohnt sich auch der Kontakt zur
@@ -430,16 +421,16 @@ durch eine Tagesverarbeitung im DatenAdler aktualisiert werden können.
 Viele IT-Systeme bieten derartige Schnittstellen. Sie steigern durch die
 Automatisierung gleichzeitig die Qualität und die Aktualität der Daten.
 
-Um die Qualität besser einschätzen zu können, vergibt die in Ab
+Um die Qualität besser einschätzen zu können, vergibt die in Abbildung 1 
 visualisierte Klassifizierung, in Abhängigkeit von der Güte der Daten,
 mindestens einen und maximal fünf Adler. Ein zusätzlicher Adler kann nur
 dazugewonnen werden, wenn die Voraussetzungen der niedrigeren Stufe
 bereits erfüllt sind.
 
-![](img/img00006.PNG)
+![](img/img00006.PNG "Klassifizierung der Güte von Daten in einem Stufenmodell")
 
 *Abbildung 1: Klassifizierung Güte von Daten (in Anlehnung an „Star
-scheme“ nach Tim Berners-Lee[Fn10](#fn10))*
+scheme“ nach Tim Berners-Lee [Fn10](#fn10))*
 
 **Was heißt eigentlich…?**
 
@@ -468,7 +459,7 @@ Die Identifizierung relevanter Datensätze kann zu einer Herausforderung
 für Kommunen werden. Je nach Aufgabenbereich einer Kommune unterscheiden
 sich die Daten, die erhoben, generiert und veröffentlicht werden können.
 Um mögliche Datensätze zu identifizieren, ist es ratsam sich an §12a des
-E-Government-Gesetz (EgovG) des Bundes zu orientieren, der jedoch
+E-Government-Gesetz (EGovG) des Bundes zu orientieren, der jedoch
 ausschließlich für die unmittelbaren Bundesbehörden gilt. An dieser
 Stelle ist es noch einmal wichtig zu betonen, dass die Brandenburger
 Kommunen keiner gesetzlichen Verpflichtung unterliegen, ihre Daten auf
@@ -498,8 +489,7 @@ Die Brandenburger Kommunen, sowohl Ämter als auch amtsfreie Gemeinden,
 stellen schon diverse Daten auf ihren eigenen Webseiten zur Verfügung.
 Diese erfüllen häufig auch bereits die Anforderungen an Open Data. Wie
 diese Daten über den DatenAdler verschlagwortet werden können und sich
-somit im Open-Data-Ökosystem wiederfinden, ist in den nachfolgenden Fu
-beschrieben.
+somit im Open-Data-Ökosystem wiederfinden, ist in den nachfolgenden Anleitungungen zum DatenAdler beschrieben.
 
  
 
@@ -557,7 +547,7 @@ Abfallversorger könnten sowohl für Unternehmen als auch für
 Privatpersonen von Interesse sein. Geodaten-Portale sind schon sehr
 verbreitet, insbesondere Liegenschaftsdaten sind gefragt.
 
-* So könnten Wohnungsverwaltungsgesellschaften sich vielleicht für die Altersstruktur der Einwohner der Kommune interessieren, also die
+* So könnten Wohnungs&shy;verwaltungs&shy;gesell&shy;schaf&shy;ten sich vielleicht für die Altersstruktur der Einwohner der Kommune interessieren, also die
 Meldeamtsdaten der Kommune, damit sie gezielt altersgerechten Wohnraum schaffen können.
 * Das Restaurant am Marktplatz interessiert sich vielleicht für die Anzahl der Fahrradfahrer, die jährlich mit der Fähre kommen, damit Sie
 spezielle Sleep & Ride Angebote schaffen können.
