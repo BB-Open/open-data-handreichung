@@ -1162,88 +1162,42 @@ Anhang
 Schlagwortverzeichnis „DatenAdler“ A-Z
 --------------------------------------
 
-+--------------------------------------+--------------------------------------+
-| **Account**                          | Die Verwaltung und Vergabe der       |
-|                                      | Accounts wird von der Webredaktion   |
-|                                      | des MIK vorgenommen. Bei Anfragen    |
-|                                      | zur Anlage und Löschung von Accounts |
-|                                      | für den DatenAdler wenden Sie sich   |
-|                                      | per Mail an                          |
-|                                      | [webredaktion@mik.brandenburg.de](ma |
-|                                      | ilto:webredaktion@mik.brandenburg.de |
-|                                      | )                                    |
-+--------------------------------------+--------------------------------------+
-| **Benutzer**                         | Siehe „Account“                      |
-+--------------------------------------+--------------------------------------+
-| **Datenstruktur**                    | Eine Datenstruktur enthält           |
-|                                      | Metadaten, die die zugeordneten      |
-|                                      | Distributionen gemein haben. Sie ist |
-|                                      | mindestens einem Katalog zugeordnet  |
-|                                      | und enthält in der Regel mindestens  |
-|                                      | eine Distribution. Siehe             |
-|                                      | Distribution, Katalog.               |
-+--------------------------------------+--------------------------------------+
-| **Distribution**                     | Eine Distribution ist einer          |
-|                                      | Datenstruktur zugeordnet und enthält |
-|                                      | Metadaten, die sie beschreiben sowie |
-|                                      | den Verweis auf die Rohdaten. Sie    |
-|                                      | stellt die unterste Ebene in der     |
-|                                      | Hierarchie von offenen Daten nach    |
-|                                      | dem Datenstandard DCAT-AP dar. Siehe |
-|                                      | Datenstruktur, Katalog.              |
-+--------------------------------------+--------------------------------------+
-| **Katalog**                          | Ein Katalog stellt ist eine Sammlung |
-|                                      | von Datenstrukturen und              |
-|                                      | Distributionen. Er wird von einem    |
-|                                      | Anbieter (Kommune) veröffentlicht.   |
-|                                      | Die Hierarchie ist in Ab             |
-|                                      | dargestellt.                         |
-|                                      |                                      |
-|                                      | ![](DatenAdler_Handreichung_V1.0-Dat |
-|                                      | eien/img00025.PNG)                   |
-|                                      |                                      |
-|                                      | *Abbildung 10: Hierarchie nach       |
-|                                      | DCAT-AP*                             |
-|                                      |                                      |
-|                                      | Ein Katalog kann mehre               |
-|                                      | Datenstrukturen beinhalten. Siehe    |
-|                                      | Datenstruktur, Distribution.         |
-+--------------------------------------+--------------------------------------+
-| **Passwort**                         | Sollten Sie Ihr Passwort vergessen   |
-|                                      | haben, wenden Sie sich per Mail an:  |
-|                                      |                                      |
-|                                      | webredaktion@mik.brandenburg.de      |
-|                                      |                                      |
-|                                      | Die Änderung des Passworts ist nach  |
-|                                      | dem Anmelden über die Werkzeugbox    |
-|                                      | (8) unter „Meine Einstellungen“      |
-|                                      | möglich (siehe Ab, Nummer 14.1).     |
-|                                      |                                      |
-|                                      | Auf der Seite „Meine Einstellung     |
-|                                      | befindet sich die Passwortänderung   |
-|                                      | unter dem Reiter „Passwort“.         |
-|                                      |                                      |
-|                                      | Falls Sie noch keinen Benutzernamen  |
-|                                      | und kein Passwort erhalten haben,    |
-|                                      | siehe „Account“.                     |
-+--------------------------------------+--------------------------------------+
-| **Rolle**                            | Rollen dienen der Beschreibung       |
-|                                      | verschiedener Tätigkeitsprofile      |
-|                                      | innerhalb des DatenAdlers. Es wird   |
-|                                      | zwischen den Rollen                  |
-|                                      | „ProviderDataEditor“,                |
-|                                      | „ProviderChiefEditor“ und            |
-|                                      | „ProviderAdmin“ unterschieden. Jeder |
-|                                      | Nutzer ist genau einer Rolle         |
-|                                      | zugeordnet und darf rollengemäß      |
-|                                      | unterschiedlich viel im Bereich      |
-|                                      | seiner Kommune im DatenAdler         |
-|                                      | verändern.                           |
-|                                      |                                      |
-|                                      |                                      |
-+--------------------------------------+--------------------------------------+
+##### Account 
+Die Verwaltung und Vergabe der Accounts wird von der Webredaktion des MIK vorgenommen. Bei Anfragen zur Anlage und Löschung von Accounts für den DatenAdler wenden Sie sich per Mail an [webredaktion@mik.brandenburg.de](mailto:webredaktion@mik.brandenburg.de).
 
- 
+##### Benutzer
+Siehe „Account“
+
+##### Datenstruktur 
+Eine Datenstruktur enthält Metadaten, die die zugeordneten Distributionen gemein haben. Sie ist mindestens einem Katalog zugeordnet und enthält in der Regel mindestens eine Distribution. Siehe Distribution, Katalog.
+
+##### Distribution
+Eine Distribution ist einer Datenstruktur zugeordnet und enthält Metadaten, die sie beschreiben sowie den Verweis auf die Rohdaten. Sie stellt die unterste Ebene in der Hierarchie von offenen Daten nach dem Datenstandard DCAT-AP dar. Siehe Datenstruktur, Katalog.
+
+##### Katalog
+Ein Katalog stellt ist eine Sammlung von Datenstrukturen und Distributionen. Er wird von einem Anbieter (Kommune) veröffentlicht. Die Hierarchie  nach DCAT-AP ist nachfolgend dargestellt. 
+ 
+```
+[Anbieter XYZ]
+       |
+[Gesamtkatalog Anbieter XYZ]
+       |
+[Datenstruktur 1]; [Datenstruktur 2]; [Datenstruktur 3]; ...
+       |
+[Distribution von 1 als CSV], [Distribution von 1 als XML], ...
+```
+
+Ein Katalog kann mehre Datenstrukturen beinhalten. Siehe Datenstruktur, Distribution. 
+
+##### Passwort
+Sollten Sie Ihr Passwort vergessen haben, wenden Sie sich per Mail an: webredaktion@mik.brandenburg.de 
+Die Änderung des Passworts ist nach dem Anmelden über die Werkzeugbox (8) unter „Meine Einstellungen“ möglich (siehe Abbildung 5, Nummer 14.1). 
+Auf der Seite „Meine Einstellung befindet sich die Passwortänderung unter dem Reiter „Passwort“.
+Falls Sie noch keinen Benutzernamen und kein Passwort erhalten haben, siehe „Account“.
+
+##### Rolle
+Rollen dienen der Beschreibung verschiedener Tätigkeitsprofile innerhalb des DatenAdlers. Es wird zwischen den Rollen „ProviderDataEditor“, „ProviderChiefEditor“ und „ProviderAdmin“ unterschieden. Jeder Nutzer ist genau einer Rolle zugeordnet und darf rollengemäß unterschiedlich viel im Bereich seiner Kommune im DatenAdler verändern.
+
 
 * * * * *
 
