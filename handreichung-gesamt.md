@@ -276,7 +276,7 @@ Vertrauen, Innovationsförderung und Wirtschaftswachstum sind hierbei
 zentrale Aspekte, die den Nutzen von Open Data beschreiben. Allgemein
 können drei Bereiche/Akteure herausgestellt werden, die von einer
 Öffnung der Daten profitieren: Bürgerinnen und Bürger, Politik und
-Verwaltung, sowie die Wirtschaft.[Fn7](#fn7)^,[Fn8](#fn8)^
+Verwaltung, sowie die Wirtschaft[Fn7](#fn7),[Fn8](#fn8).
 
 ### Bürgerinnen und Bürger
 
@@ -445,10 +445,6 @@ scheme“ nach Tim Berners-Lee [Fn10](#fn10))*
 > **Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[Fn12](#fn12)
 > 
 > **Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz mit den Zuordnungen verwiesen.                                           
-> 
->[Fn11](#fn11back) [https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit),                                        zuletzt zugegriffen: 01.09.2018
-> 
-> [Fn12](#fn12back) https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär),                                                   zuletzt zugegriffen: 01.09.2018
 
 
 
@@ -560,27 +556,18 @@ spezifischen Fachverfahren vordergründig Anwendung finden. Diese
 Mitarbeiter gilt es zu identifizieren und bestenfalls von Beginn an im
 Prozess einzubeziehen.
 
-**Idee: Brainstorming im Team**
+![](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
 
-Es ist vielleicht nicht immer sofort einleuchtend, wofür die eigenen   
-Daten interessant sein könnten, aber wenn darüber etwas nachgedacht  
-wird, entstehen diverse Ideen. Um zu ermitteln, über welche Daten die 
-eigene Kommune verfügt und die eine Relevanz für Bürger, Verwaltung und
-Unternehmen haben, könnte ein gemeinsames Brainstorming durchgeführt   
-werden. Den Nutzen der eigenen Daten zu erkennen, kann dabei helfen, die 
-Akzeptanz für das Thema Open Data in der eigenen Verwaltung und die 
-Motivation sich beim DatenAdler zu beteiligen, zu steigern. Dabei können
-Transparenzgründe oder Innovationsgedanken sowie die einhergehende      
-Wirtschaftsförderung eine Rolle spielen.                                
-                                                                         
-Mögliche Leitfragen, die beim Brainstorming inspirieren können, sind:   
-                                                                         
-* Welche Daten interessieren unsere Bürger am meisten?
-* Welches Geschäftsmodell könnte ein Startup mit unseren Daten realisieren?
-* Welche Daten brauchen unsere lokal angesiedelten Unternehmen, um effizienter arbeiten zu können?                                         
+> ### Idee: Brainstorming im Team
+>
+> Es ist vielleicht nicht immer sofort einleuchtend, wofür die eigenen Daten interessant sein könnten, aber wenn darüber etwas nachgedacht wird, entstehen diverse Ideen. Um zu ermitteln, über welche Daten die eigene Kommune verfügt und die eine Relevanz für Bürger, Verwaltung und Unternehmen haben, könnte ein gemeinsames Brainstorming durchgeführt werden. Den Nutzen der eigenen Daten zu erkennen, kann dabei helfen, die Akzeptanz für das Thema Open Data in der eigenen Verwaltung und die Motivation sich beim DatenAdler zu beteiligen, zu steigern. Dabei können Transparenzgründe oder Innovationsgedanken sowie die einhergehende Wirtschaftsförderung eine Rolle spielen.
+> 
+> Mögliche Leitfragen, die beim Brainstorming inspirieren können, sind:   
+> 
+>* Welche Daten interessieren unsere Bürger am meisten?
+>* Welches Geschäftsmodell könnte ein Startup mit unseren Daten realisieren?
+>* Welche Daten brauchen unsere lokal angesiedelten Unternehmen, um effizienter arbeiten zu können?                                         
 
-
-![](img/img00005.PNG)
 
 Datenschutz
 -----------
@@ -597,8 +584,6 @@ es leider immer einfacher, auch in anonymisierten Daten einen
 Personenbezug herzustellen. Daher müssen die damit verbundenen Risiken
 näher betrachtet werden. Im Folgenden wird eine Risikoabschätzung zum
 Umgang mit Daten im Sinne des Datenschutzes dargelegt.
-
- 
 
 Zwischen Open Data und Datenschutz liegt ein offensichtlicher
 Zielkonflikt vor, mit dem sämtliche Behörden, aber auch Unternehmen
@@ -789,7 +774,7 @@ kommunalen Open-Data-Portal (wie
 [https://opendata.potsdam.de/](https://opendata.potsdam.de/))
 veröffentlicht sind automatisch per „Harvesting“ zu verweisen. Es ist
 auch beabsichtigt, dass in Zukunft auch die Geodaten der kommunalen
-Geodaten-Portale geharvested werden^[Fn23](#fn23)^.
+Geodaten-Portale geharvested werden[Fn23](#fn23).
 
 Der DatenAdler ist nicht dafür ausgelegt, die enthaltenen Daten direkt
 zu verarbeiten. Er stellt ein reines Verzeichnis für Metadaten dar.
@@ -856,7 +841,7 @@ Berechtigungsrolle nach dem Schema in Ta fest.
   * Dem Nutzer obliegt die eingeschränkte Anpassung und Gestaltung der Seite der Kommune.
   * Der Datenbereitsteller kann Rohdaten innerhalb einer Distribution hochladen oder auf Daten außerhalb des Portals (zum Beispiel auf eigener Webseite) verweisen.
   * Ein Katalog ist bereits vorgegeben.
-  * *Es können lediglich Datensätze und Distributionen innerhalb des vorgegebenen Katalogs angelegt werden.
+  * Es können lediglich Datensätze und Distributionen innerhalb des vorgegebenen Katalogs angelegt werden.
 * **ProviderChiefEditor**
   * Der Nutzer verfügt über alle Berechtigungen der Rolle „ProviderDataEditor“.
   * Der Nutzer hat erweiterte Gestaltungsmöglichkeiten für die Seite der Kommune. So kann diese zum Beispiel mit verantwortlichen Stellen, Unterseiten, Dateien und Bilder angereichert werden. 
@@ -1241,11 +1226,18 @@ In Anlehnung an
 [https://www.w3.org/DesignIssues/LinkedData.html](https://www.w3.org/DesignIssues/LinkedData.html)
 zuletzt zugegriffen: 01.09.2018
 
+##### FN11
+[https://de.wikipedia.org/wiki/Maschinenlesbarkeit](https://de.wikipedia.org/wiki/Maschinenlesbarkeit), 
+zuletzt zugegriffen: 01.09.2018
+ 
+##### FN12
+[https://de.wikipedia.org/wiki/Propriet%C3%A4r](https://de.wikipedia.org/wiki/Proprietär), 
+zuletzt zugegriffen: 01.09.2018
+
 ##### FN13 
 Abgleitet aus der Kommunalverfassung des Landes Brandenburg:
 [http://bravors.brandenburg.de/gesetze/bbgkverf\#2](http://bravors.brandenburg.de/gesetze/bbgkverf),
 zuletzt zugegriffen: 01.09.2018
-
  
 ##### FN14
 vgl.
