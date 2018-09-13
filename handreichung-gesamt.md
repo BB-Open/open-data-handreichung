@@ -3,7 +3,7 @@ August 2018 – Bertheau, Hiller, Kohlhagen, Peverali
 # Open Data in den Kommunen des Landes Brandenburg
 **Eine Handreichung für die redaktionelle Arbeit mit dem DatenAdler**
 
-![Sinnbild](img/Creative-Tail-Animal-eagle-300x300.png "Adlerkopf auf rotem Grund")
+<p align="right"><img src="img/Creative-Tail-Animal-eagle-300x300.png?raw=true" alt="Sinnbild" title="Adlerkopf auf rotem Grund"></p>
 
 
 **Autoren:**
@@ -364,7 +364,7 @@ Sortimente an welchen Standorten gewinnbringen sind.
 Wie gehe ich an die Arbeit mit Open Data heran?
 ===============================================
 
-![](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
+> ![Sinnbild](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
 > ### Was ist der einfachste Weg die Datenqualität zu verbessern?
 >
 > Möchte man die Bewertung des Datensatzes verbessern, so ist der Sprung von 3 auf 4 Adler der einfachste. Die Software Microsoft Excel bietet zum Beispiel eine einfache Möglichkeit, Tabellen in dem nicht proprietären Format „CSV“ abzuspeichern. Die Funktion verbirgt sich im Menü Datei -\> Speichern unter. Hier kann bei der Auswahlschaltfläche „Dateiformat“ das Format „CSV“ ausgewählt und die Datei anschließend abgespeichert werden.
@@ -372,7 +372,7 @@ Wie gehe ich an die Arbeit mit Open Data heran?
 > Auf demselben Weg können auch Dokumente in Microsoft Word als „OCT“ abgespeichert werden.
 >
 > **Vorsicht:** *Das Dateiformat „CSV“ unterstützt keine Formatierungen.*
-
+>
 
 Im Folgenden wird auf die notwendige Datenqualität offener Daten, auf
 die Möglichkeiten der Datenidentifizierung, auf Datenschutzmaßnahmen,
@@ -390,7 +390,7 @@ entsprechenden Lizenz veröffentlicht ist, wird daraus „Open Data“
 zu veröffentlichen, ist dies oft mit der Hoffnung verbunden, die
 eingangs beschriebenen positiven Effekte hervorzurufen. Um die Chance zu
 erhöhen, dass die Daten später wirklich Verwendung finden, lohnt es
-sich, sich mit der Frage der Datenqualität zu beschäftigen.
+,sich, sich mit der Frage der Datenqualität zu beschäftigen.
 
 Ob und wie die Daten nach der Veröffentlichung genutzt werden, hängt
 maßgeblich von der Qualität der veröffentlichen Daten ab.
@@ -432,8 +432,7 @@ bereits erfüllt sind.
 scheme“ nach Tim Berners-Lee [Fn10](#fn10))*
 
 
-![](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
-
+> ![Sinnbild](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
 > ### Was heißt eigentlich…?
 >
 > **Maschinenlesbar** – die Informationen sind speziell darauf ausgelegt worden, auch für Maschinen lesbar zu sein, anstatt nur für Menschen[Fn11](#fn11). Dies lässt sich auch daran erkennen, dass man einen Text markieren und kopieren kann.                              
@@ -445,7 +444,7 @@ scheme“ nach Tim Berners-Lee [Fn10](#fn10))*
 > **Proprietäres Format** – ein Datenformat das von Dritten, ohne Schwierigkeiten und ohne den Erwerb einer speziellen Software lesbar ist[Fn12](#fn12)
 > 
 > **Verlinkt**– beispielsweise wird innerhalb eines Datensatzes auf andere Datensätze verwiesen. So müssen die Städtenamen zu den Postleitzahlen nicht in der Datei aufgeführt werden, es wird aber auf einen Datensatz mit den Zuordnungen verwiesen.                                           
-
+>
 
 
 Identifizierung relevanter Datensätzen auf kommunaler Ebene
@@ -479,15 +478,11 @@ Energie und Wasse               | Gesundheit / Soziales
 Breitbandausbau und -zugang     | Umweltschutz
 
 
- 
-
 Die Brandenburger Kommunen, sowohl Ämter als auch amtsfreie Gemeinden,
 stellen schon diverse Daten auf ihren eigenen Webseiten zur Verfügung.
 Diese erfüllen häufig auch bereits die Anforderungen an Open Data. Wie
 diese Daten über den DatenAdler verschlagwortet werden können und sich
-somit im Open-Data-Ökosystem wiederfinden, ist in den nachfolgenden Anleitungungen zum DatenAdler beschrieben.
-
- 
+somit im Open-Data-Ökosystem wiederfinden, ist in den nachfolgenden Anleitungungen zum DatenAdler beschrieben. 
 
 ### Fragenkatalog
 
@@ -556,8 +551,7 @@ spezifischen Fachverfahren vordergründig Anwendung finden. Diese
 Mitarbeiter gilt es zu identifizieren und bestenfalls von Beginn an im
 Prozess einzubeziehen.
 
-![](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
-
+> ![Sinnbild](img/img00005.PNG "Sinnbild: Fragezeichen und Glühlampe")
 > ### Idee: Brainstorming im Team
 >
 > Es ist vielleicht nicht immer sofort einleuchtend, wofür die eigenen Daten interessant sein könnten, aber wenn darüber etwas nachgedacht wird, entstehen diverse Ideen. Um zu ermitteln, über welche Daten die eigene Kommune verfügt und die eine Relevanz für Bürger, Verwaltung und Unternehmen haben, könnte ein gemeinsames Brainstorming durchgeführt werden. Den Nutzen der eigenen Daten zu erkennen, kann dabei helfen, die Akzeptanz für das Thema Open Data in der eigenen Verwaltung und die Motivation sich beim DatenAdler zu beteiligen, zu steigern. Dabei können Transparenzgründe oder Innovationsgedanken sowie die einhergehende Wirtschaftsförderung eine Rolle spielen.
@@ -567,7 +561,7 @@ Prozess einzubeziehen.
 >* Welche Daten interessieren unsere Bürger am meisten?
 >* Welches Geschäftsmodell könnte ein Startup mit unseren Daten realisieren?
 >* Welche Daten brauchen unsere lokal angesiedelten Unternehmen, um effizienter arbeiten zu können?                                         
-
+>
 
 Datenschutz
 -----------
@@ -639,7 +633,7 @@ Risikoabschätzung der Stadt Seattle[Fn19](#fn19) empfohlen, die im
 Folgenden näher erläutert wird. Die Risikoabschätzung sollte vor der
 Veröffentlichung eines Datensatzes durchgeführt werden.
 
-![](img/img00007.PNG)
+![](img/img00007.PNG "Ampelkonzept")
 
 Durch Stufe 1 der Risikoabschätzung soll ermittelt werden, wer der
 Rechteinhaber der zu veröffentlichen Daten ist. Falls der Urheber der
