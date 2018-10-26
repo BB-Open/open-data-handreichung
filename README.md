@@ -3,7 +3,7 @@
 
 Open Data lebt von der Beteiligung der Datenbereitsteller insbesondere aus dem kommunalen Bereich. Um hier den Einstieg so einfach wie möglich zu gestalten, haben **[Studierende der Universität Potsdam](Projektchronik.md)** eine **Handreichung für die Praxis** erarbeitet. Sie wurde am 07.09.2018 abgenommen und veröffentlicht.
 
-<p><img  align="right" src="img/IMG_20180919_115851.jpg?raw=true" alt="Foto" width=260 title="Foto einer gedruckte Ausgabe auf einer Tastatur-">
+<p><img align="right" src="img/IMG_20180919_115851.jpg?raw=true" alt="Foto" width=260 title="Foto einer gedruckte Ausgabe auf einer Tastatur-">
 <p>Die Handreichung richtet sich an die Kommunen im Land Brandenburg und soll als Unterstützung beim Umgang mit dem Thema Open
 Data dienen. Auch kommunale Daten sind interessant für Bürger, Unternehmen
 und andere Verwaltungen. Das übergeordnete Open-Data-Ökosystem
