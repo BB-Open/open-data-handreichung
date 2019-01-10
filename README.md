@@ -18,5 +18,5 @@ Portalen einzusehen, zu verwenden und daraus einen Wert zu erschaffen.
 * [Der Metadatenstandard DCAT-AP](handreichung-gesamt.md#der-metadatenstandard-dcat-ap)
 * [Schlagwortverzeichnis „DatenAdler“ A-Z](handreichung-gesamt.md#schlagwortverzeichnis-datenadler-a-z)
 
-* die [Handreichung als PDF oder DOX](docs) in Version 1.0
+* die [Handreichung als PDF oder DOCX](docs) in Version 1.0
 * [wie Sie sich beteiligen](CONTRIBUTING.md) können
